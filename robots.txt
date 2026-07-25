@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kopitarfan.github.io/VeilTarot/sitemap.xml
