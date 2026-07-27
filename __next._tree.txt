@@ -1,0 +1,8 @@
+:HL["/_next/static/chunks/06-awe~87s3.w.css","style"]
+:HL["/_next/static/media/01e4147cff8141ee-s.p.10ked.7w885.g.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/83afe278b6a6bb3c-s.p.0q-301v4kxxnr.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/cards/hermit.jpg","image"]
+:HL["/cards/two-of-swords.jpg","image"]
+:HL["/cards/star.jpg","image"]
+:HL["/cards/bright-path.jpg","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"8MSYQ5h8ssyz-nWrXPEpd"}
