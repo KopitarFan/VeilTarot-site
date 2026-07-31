@@ -2375,6 +2375,481 @@
           "url": "https://readwithveil.com/decks/v1/finalQuest/finalquest_77.jpg"
         }
       ]
+    },
+    {
+      "id": "cozyWitch",
+      "version": 1,
+      "totalBytes": 17047898,
+      "files": [
+        {
+          "name": "cozywitch_00.jpg",
+          "bytes": 174213,
+          "sha256": "ef60c9f25b2452500a64856141f6604c8f7aade3a98266f92cc988f749d797ae",
+          "url": "https://readwithveil.com/decks/v1/cozyWitch/cozywitch_00.jpg"
+        },
+        {
+          "name": "cozywitch_01.jpg",
+          "bytes": 221347,
+          "sha256": "e8b424dc7d767648bef9a999e0137888115d22fc4b63753391b74e8d14f3ba4c",
+          "url": "https://readwithveil.com/decks/v1/cozyWitch/cozywitch_01.jpg"
+        },
+        {
+          "name": "cozywitch_02.jpg",
+          "bytes": 185593,
+          "sha256": "ae44110cc9699a6dfcc3ba22b4918f334a9047b2624a3be4e5829c670232f17f",
+          "url": "https://readwithveil.com/decks/v1/cozyWitch/cozywitch_02.jpg"
+        },
+        {
+          "name": "cozywitch_03.jpg",
+          "bytes": 231852,
+          "sha256": "14c16011ffa8cebbb6dc605a1f73abbc7203a42ee4bcf960494769e394e784b0",
+          "url": "https://readwithveil.com/decks/v1/cozyWitch/cozywitch_03.jpg"
+        },
+        {
+          "name": "cozywitch_04.jpg",
+          "bytes": 213483,
+          "sha256": "4dd0e69a192b8f94f72ef4b519cee3c3032947dce51aa1a2a40723006842927e",
+          "url": "https://readwithveil.com/decks/v1/cozyWitch/cozywitch_04.jpg"
+        },
+        {
+          "name": "cozywitch_05.jpg",
+          "bytes": 208306,
+          "sha256": "a34299ab7203ac8f8303b829e85740fe608d5e46163630820c4260cc7503d572",
+          "url": "https://readwithveil.com/decks/v1/cozyWitch/cozywitch_05.jpg"
+        },
+        {
+          "name": "cozywitch_06.jpg",
+          "bytes": 218858,
+          "sha256": "d2f1cedcf4fdb91598e065cfbb27bb05dfa59162420c01a863610592dead8d11",
+          "url": "https://readwithveil.com/decks/v1/cozyWitch/cozywitch_06.jpg"
+        },
+        {
+          "name": "cozywitch_07.jpg",
+          "bytes": 196604,
+          "sha256": "b473db496d7707444e4f87a1d41a438aa49c104bc218cf754d959e99ef55ce58",
+          "url": "https://readwithveil.com/decks/v1/cozyWitch/cozywitch_07.jpg"
+        },
+        {
+          "name": "cozywitch_08.jpg",
+          "bytes": 215466,
+          "sha256": "baaf2de5fb03b4b11c3389c9ce6b7ddfb401783c512384543a87a7487fcc4db0",
+          "url": "https://readwithveil.com/decks/v1/cozyWitch/cozywitch_08.jpg"
+        },
+        {
+          "name": "cozywitch_09.jpg",
+          "bytes": 205873,
+          "sha256": "f49af4e391bbdc58f7a09720390b5c4e8ce798120846a43c4dc589b2b4770d7f",
+          "url": "https://readwithveil.com/decks/v1/cozyWitch/cozywitch_09.jpg"
+        },
+        {
+          "name": "cozywitch_10.jpg",
+          "bytes": 225886,
+          "sha256": "e4c1cb7845d73b13d48385cdb2652b3a9b855cfd5e0c2cab4f75bbc8aa0e7f09",
+          "url": "https://readwithveil.com/decks/v1/cozyWitch/cozywitch_10.jpg"
+        },
+        {
+          "name": "cozywitch_11.jpg",
+          "bytes": 200569,
+          "sha256": "5a6c3ccea2e471d68cfed2bb7ec399189022cd9d8f154044d0d6b66aec845f9b",
+          "url": "https://readwithveil.com/decks/v1/cozyWitch/cozywitch_11.jpg"
+        },
+        {
+          "name": "cozywitch_12.jpg",
+          "bytes": 206501,
+          "sha256": "95ac2c4f0de046e7b957bbd8a259caa6194b5a0bead50b256cb5c6e7531356f0",
+          "url": "https://readwithveil.com/decks/v1/cozyWitch/cozywitch_12.jpg"
+        },
+        {
+          "name": "cozywitch_13.jpg",
+          "bytes": 211784,
+          "sha256": "9fc240130df6125fb703b5aedd3ea121d4de718fe2eea6107715eeb64bda327b",
+          "url": "https://readwithveil.com/decks/v1/cozyWitch/cozywitch_13.jpg"
+        },
+        {
+          "name": "cozywitch_14.jpg",
+          "bytes": 181634,
+          "sha256": "b64c2bbca11e14f854406524f10724327cf21b1e39644128d4bd8b20ec691747",
+          "url": "https://readwithveil.com/decks/v1/cozyWitch/cozywitch_14.jpg"
+        },
+        {
+          "name": "cozywitch_15.jpg",
+          "bytes": 188550,
+          "sha256": "fc84b0e6765e47062e2b6931753abacafc553c4df490d9d609a8a7ffcf758bec",
+          "url": "https://readwithveil.com/decks/v1/cozyWitch/cozywitch_15.jpg"
+        },
+        {
+          "name": "cozywitch_16.jpg",
+          "bytes": 181718,
+          "sha256": "178ef6e6bb379214564c3df060ad64e97032cb40cfa1127615cbc0adac077212",
+          "url": "https://readwithveil.com/decks/v1/cozyWitch/cozywitch_16.jpg"
+        },
+        {
+          "name": "cozywitch_17.jpg",
+          "bytes": 178877,
+          "sha256": "95b49e010a351cc947e6e75432c0021169c53223f27c40e870028e2a44e5fe4b",
+          "url": "https://readwithveil.com/decks/v1/cozyWitch/cozywitch_17.jpg"
+        },
+        {
+          "name": "cozywitch_18.jpg",
+          "bytes": 193784,
+          "sha256": "be74f03ba75d8abcadc21b45487e447ba4320dd9e5738c37e9bc053cb28f6748",
+          "url": "https://readwithveil.com/decks/v1/cozyWitch/cozywitch_18.jpg"
+        },
+        {
+          "name": "cozywitch_19.jpg",
+          "bytes": 214976,
+          "sha256": "0e895c7da747077913286480d48b4a6870f6780a790e613e22330f0c3fe455ff",
+          "url": "https://readwithveil.com/decks/v1/cozyWitch/cozywitch_19.jpg"
+        },
+        {
+          "name": "cozywitch_20.jpg",
+          "bytes": 210340,
+          "sha256": "ded665b6b0ceabfd1bfd7df67c168c073e6f5cb40e7b5497cfb5529eb2550e35",
+          "url": "https://readwithveil.com/decks/v1/cozyWitch/cozywitch_20.jpg"
+        },
+        {
+          "name": "cozywitch_21.jpg",
+          "bytes": 243409,
+          "sha256": "6ea211a54ee726142d3721e7e1f8aaf39a10ce62e65579fba7d6a88a7817fb2c",
+          "url": "https://readwithveil.com/decks/v1/cozyWitch/cozywitch_21.jpg"
+        },
+        {
+          "name": "cozywitch_22.jpg",
+          "bytes": 199567,
+          "sha256": "f26fa9e835129f7e73926e16e05f0bee7ee25aaa0c705011e95aad41d3246686",
+          "url": "https://readwithveil.com/decks/v1/cozyWitch/cozywitch_22.jpg"
+        },
+        {
+          "name": "cozywitch_23.jpg",
+          "bytes": 189968,
+          "sha256": "4007aa64c248ec762d0559935edc54c7330cb8fbda60850172cc8b57351cfa91",
+          "url": "https://readwithveil.com/decks/v1/cozyWitch/cozywitch_23.jpg"
+        },
+        {
+          "name": "cozywitch_24.jpg",
+          "bytes": 196764,
+          "sha256": "05e169e5dcc59aa92ae0a05a075c0b005fe780eb7ce398c146538e23311c831d",
+          "url": "https://readwithveil.com/decks/v1/cozyWitch/cozywitch_24.jpg"
+        },
+        {
+          "name": "cozywitch_25.jpg",
+          "bytes": 226754,
+          "sha256": "06327b602f700b77694b81ef7308b6a87370616049351c89b7c76a14cbedf4e6",
+          "url": "https://readwithveil.com/decks/v1/cozyWitch/cozywitch_25.jpg"
+        },
+        {
+          "name": "cozywitch_26.jpg",
+          "bytes": 210349,
+          "sha256": "7d61ee05994f71f12b1c916ea706eddc4f39c42dc13facffa133bd4340d35712",
+          "url": "https://readwithveil.com/decks/v1/cozyWitch/cozywitch_26.jpg"
+        },
+        {
+          "name": "cozywitch_27.jpg",
+          "bytes": 201137,
+          "sha256": "ca1621da139f3d1329c752d30bebb493b8f8fd8257aa719cf01ac62f6554e5d0",
+          "url": "https://readwithveil.com/decks/v1/cozyWitch/cozywitch_27.jpg"
+        },
+        {
+          "name": "cozywitch_28.jpg",
+          "bytes": 206659,
+          "sha256": "582a5e0c1911457f44d87cf4a6b66524f68f1d5a2e7e18608d4c2107bd7be9fa",
+          "url": "https://readwithveil.com/decks/v1/cozyWitch/cozywitch_28.jpg"
+        },
+        {
+          "name": "cozywitch_29.jpg",
+          "bytes": 175579,
+          "sha256": "6c24e641fe5efa96472eb2fdaee8d5a838fba1161238255bfdf3843854205b9a",
+          "url": "https://readwithveil.com/decks/v1/cozyWitch/cozywitch_29.jpg"
+        },
+        {
+          "name": "cozywitch_30.jpg",
+          "bytes": 204192,
+          "sha256": "eb09d0fafc7df1f0ced89cdad1640b42928b4a039bf364f466bfb20c225a2f84",
+          "url": "https://readwithveil.com/decks/v1/cozyWitch/cozywitch_30.jpg"
+        },
+        {
+          "name": "cozywitch_31.jpg",
+          "bytes": 219189,
+          "sha256": "9dd06537c327a41163a5d0a32d91155551df0cdede2fb0c96975ea8de156d5da",
+          "url": "https://readwithveil.com/decks/v1/cozyWitch/cozywitch_31.jpg"
+        },
+        {
+          "name": "cozywitch_32.jpg",
+          "bytes": 185600,
+          "sha256": "ffcda572faf4539bc3c8e48872e8f7470a6892a04c2efeb1e7eff8e14f2e8a4f",
+          "url": "https://readwithveil.com/decks/v1/cozyWitch/cozywitch_32.jpg"
+        },
+        {
+          "name": "cozywitch_33.jpg",
+          "bytes": 215375,
+          "sha256": "d5369ea01c7e90653658adcbe23e324b779687aa34ba7e3d9d130cb38f32bf97",
+          "url": "https://readwithveil.com/decks/v1/cozyWitch/cozywitch_33.jpg"
+        },
+        {
+          "name": "cozywitch_34.jpg",
+          "bytes": 213020,
+          "sha256": "f2900b4ab85100a927117b5627cc4d11b5088533076b5406fae39a64892146df",
+          "url": "https://readwithveil.com/decks/v1/cozyWitch/cozywitch_34.jpg"
+        },
+        {
+          "name": "cozywitch_35.jpg",
+          "bytes": 197130,
+          "sha256": "74a34558f527e5685c584edf69150284b5cc0cd4a00908e93fa88f7d037da3f4",
+          "url": "https://readwithveil.com/decks/v1/cozyWitch/cozywitch_35.jpg"
+        },
+        {
+          "name": "cozywitch_36.jpg",
+          "bytes": 219605,
+          "sha256": "2852b87d53a39a0cd1d44ab74e6bb596d577af8509a400f1aec1c1077563417e",
+          "url": "https://readwithveil.com/decks/v1/cozyWitch/cozywitch_36.jpg"
+        },
+        {
+          "name": "cozywitch_37.jpg",
+          "bytes": 251802,
+          "sha256": "eec81bcb76995c68549f54fb09eb005d718ac11fe25937bd77ff0df6ec1f9718",
+          "url": "https://readwithveil.com/decks/v1/cozyWitch/cozywitch_37.jpg"
+        },
+        {
+          "name": "cozywitch_38.jpg",
+          "bytes": 237864,
+          "sha256": "7deca399b378f83b63d85bcb6da6210afcb1ae9cd7312e4abd9d46924586a9f8",
+          "url": "https://readwithveil.com/decks/v1/cozyWitch/cozywitch_38.jpg"
+        },
+        {
+          "name": "cozywitch_39.jpg",
+          "bytes": 240447,
+          "sha256": "11de319eeb40989c5f5e9b01bb2ceb701cef8f5a7577bac83a849d355091366d",
+          "url": "https://readwithveil.com/decks/v1/cozyWitch/cozywitch_39.jpg"
+        },
+        {
+          "name": "cozywitch_40.jpg",
+          "bytes": 217506,
+          "sha256": "9c338e75476728a44b8a531cf6beaf20749d11a527852624f8f9613590ade314",
+          "url": "https://readwithveil.com/decks/v1/cozyWitch/cozywitch_40.jpg"
+        },
+        {
+          "name": "cozywitch_41.jpg",
+          "bytes": 240878,
+          "sha256": "4d6ea31824b9bb3c2fdaaa7fa2c097cd2ab339be31482d0ceed6977f63c3ad18",
+          "url": "https://readwithveil.com/decks/v1/cozyWitch/cozywitch_41.jpg"
+        },
+        {
+          "name": "cozywitch_42.jpg",
+          "bytes": 228291,
+          "sha256": "fc8fd49db982142d1f1620747f4cf65539ca05d2b1e0c0facf0c14d51f373847",
+          "url": "https://readwithveil.com/decks/v1/cozyWitch/cozywitch_42.jpg"
+        },
+        {
+          "name": "cozywitch_43.jpg",
+          "bytes": 225390,
+          "sha256": "dc781d552a8b3653e8c1d7a1d99b6f723b6a6b60ef3747043ef375277a9fe079",
+          "url": "https://readwithveil.com/decks/v1/cozyWitch/cozywitch_43.jpg"
+        },
+        {
+          "name": "cozywitch_44.jpg",
+          "bytes": 199333,
+          "sha256": "696676f16154f875a83d5056e66c1e949baddb280c32d3d007b457e4e8c71a0d",
+          "url": "https://readwithveil.com/decks/v1/cozyWitch/cozywitch_44.jpg"
+        },
+        {
+          "name": "cozywitch_45.jpg",
+          "bytes": 237247,
+          "sha256": "762a207753477790f3f7c95e105b82982f8756f0db87eb38828ba61909d5ebb7",
+          "url": "https://readwithveil.com/decks/v1/cozyWitch/cozywitch_45.jpg"
+        },
+        {
+          "name": "cozywitch_46.jpg",
+          "bytes": 231833,
+          "sha256": "018f9739b78a0dfb01255dee9fe3c3dc65ef8e3fbf4483f81eca4d62b1a68b18",
+          "url": "https://readwithveil.com/decks/v1/cozyWitch/cozywitch_46.jpg"
+        },
+        {
+          "name": "cozywitch_47.jpg",
+          "bytes": 241217,
+          "sha256": "b4026677243a421eda6debd9e0a5f9b664f4c8ec909d01dfcf78ec9544b44110",
+          "url": "https://readwithveil.com/decks/v1/cozyWitch/cozywitch_47.jpg"
+        },
+        {
+          "name": "cozywitch_48.jpg",
+          "bytes": 232426,
+          "sha256": "d3150d3d6e4484abaa2100528998697f9a1000427f9d458a3b63d284582172de",
+          "url": "https://readwithveil.com/decks/v1/cozyWitch/cozywitch_48.jpg"
+        },
+        {
+          "name": "cozywitch_49.jpg",
+          "bytes": 227120,
+          "sha256": "59a9d31c03dac112998229233102758093a1d5262a9fbb1f36675135a8fde747",
+          "url": "https://readwithveil.com/decks/v1/cozyWitch/cozywitch_49.jpg"
+        },
+        {
+          "name": "cozywitch_50.jpg",
+          "bytes": 223498,
+          "sha256": "7f8f008d591701659ad257b49cf7a602a5df0d2b7b0ae96f5a91344b6086c58d",
+          "url": "https://readwithveil.com/decks/v1/cozyWitch/cozywitch_50.jpg"
+        },
+        {
+          "name": "cozywitch_51.jpg",
+          "bytes": 220703,
+          "sha256": "6f331e81b4adb31a85943185d8318aff9fe9ed88734c0bba4489a7d682b35f86",
+          "url": "https://readwithveil.com/decks/v1/cozyWitch/cozywitch_51.jpg"
+        },
+        {
+          "name": "cozywitch_52.jpg",
+          "bytes": 214627,
+          "sha256": "d23902e21e151406ff9f040569658a92cc0b711bae9391e4d87ef1066f59ba81",
+          "url": "https://readwithveil.com/decks/v1/cozyWitch/cozywitch_52.jpg"
+        },
+        {
+          "name": "cozywitch_53.jpg",
+          "bytes": 216145,
+          "sha256": "1aaa35ea6b3bc19a1a3871d43c96f194b1256fbf076f22aef5200118bfb9602f",
+          "url": "https://readwithveil.com/decks/v1/cozyWitch/cozywitch_53.jpg"
+        },
+        {
+          "name": "cozywitch_54.jpg",
+          "bytes": 225638,
+          "sha256": "c15cc78ac31304a47b89a6388ecd94c5c50660220430b3d8db473fc9cfa42026",
+          "url": "https://readwithveil.com/decks/v1/cozyWitch/cozywitch_54.jpg"
+        },
+        {
+          "name": "cozywitch_55.jpg",
+          "bytes": 215383,
+          "sha256": "867003caca1df86a5a16c5d7c1c7fee771ab5297b65ae351317f4460246238e8",
+          "url": "https://readwithveil.com/decks/v1/cozyWitch/cozywitch_55.jpg"
+        },
+        {
+          "name": "cozywitch_56.jpg",
+          "bytes": 228175,
+          "sha256": "ecee4eec76293e0930624d4b3b11671ec219688de5aa41e3445f13927d45d34b",
+          "url": "https://readwithveil.com/decks/v1/cozyWitch/cozywitch_56.jpg"
+        },
+        {
+          "name": "cozywitch_57.jpg",
+          "bytes": 240133,
+          "sha256": "db891553cf24970a3047704c54455a651bddfa0e65df256a58f7f9d741090450",
+          "url": "https://readwithveil.com/decks/v1/cozyWitch/cozywitch_57.jpg"
+        },
+        {
+          "name": "cozywitch_58.jpg",
+          "bytes": 200067,
+          "sha256": "75b5046d85906216ec5aaf0030fbc06534a27b0d4ff7913d0a4920eae75e940a",
+          "url": "https://readwithveil.com/decks/v1/cozyWitch/cozywitch_58.jpg"
+        },
+        {
+          "name": "cozywitch_59.jpg",
+          "bytes": 230198,
+          "sha256": "f487d0f44482e12631c0c1f5ee6465546266f0ee34913200827dc39efc397c9f",
+          "url": "https://readwithveil.com/decks/v1/cozyWitch/cozywitch_59.jpg"
+        },
+        {
+          "name": "cozywitch_60.jpg",
+          "bytes": 247248,
+          "sha256": "eaa374e91fc8473e166072c6ff9400918457181453c49cc7419192a78a1dadb9",
+          "url": "https://readwithveil.com/decks/v1/cozyWitch/cozywitch_60.jpg"
+        },
+        {
+          "name": "cozywitch_61.jpg",
+          "bytes": 259160,
+          "sha256": "31282bf348c7d917ed4e017fc319c71ab47b0c2f31aac57441653a8afb57ff49",
+          "url": "https://readwithveil.com/decks/v1/cozyWitch/cozywitch_61.jpg"
+        },
+        {
+          "name": "cozywitch_62.jpg",
+          "bytes": 236618,
+          "sha256": "1e168f0bcb753a032379978a15cbc91fe96f52ee6cb81c46378215b0213ebeae",
+          "url": "https://readwithveil.com/decks/v1/cozyWitch/cozywitch_62.jpg"
+        },
+        {
+          "name": "cozywitch_63.jpg",
+          "bytes": 222728,
+          "sha256": "fab0fe966af8ec2ecf167d28e90a26df50da82864b8528fcafa0e6e6f6d3aec6",
+          "url": "https://readwithveil.com/decks/v1/cozyWitch/cozywitch_63.jpg"
+        },
+        {
+          "name": "cozywitch_64.jpg",
+          "bytes": 231538,
+          "sha256": "f819fb78d85097f9aca2d2fc23e48caf91d86d39cc25c99062d04ea45d3a5acc",
+          "url": "https://readwithveil.com/decks/v1/cozyWitch/cozywitch_64.jpg"
+        },
+        {
+          "name": "cozywitch_65.jpg",
+          "bytes": 238293,
+          "sha256": "7ea980d374e5394eed08b5a37eb4f339153cfb8fbf4cc529b86475ccb95ad040",
+          "url": "https://readwithveil.com/decks/v1/cozyWitch/cozywitch_65.jpg"
+        },
+        {
+          "name": "cozywitch_66.jpg",
+          "bytes": 250123,
+          "sha256": "29d862510c63ca8ec9d7dbbec4628d4457ae80d8ac85c72542819c3423f7a2d2",
+          "url": "https://readwithveil.com/decks/v1/cozyWitch/cozywitch_66.jpg"
+        },
+        {
+          "name": "cozywitch_67.jpg",
+          "bytes": 199365,
+          "sha256": "9a3a03818a4b3d1842e8b613dad33ec57c8149c7628e4a8ed86f7e9f2923f1aa",
+          "url": "https://readwithveil.com/decks/v1/cozyWitch/cozywitch_67.jpg"
+        },
+        {
+          "name": "cozywitch_68.jpg",
+          "bytes": 242900,
+          "sha256": "6bcc155a7245ccf24961eccca5f7263aa88f868f3c0fffd4bd1a5ca7fd8cd864",
+          "url": "https://readwithveil.com/decks/v1/cozyWitch/cozywitch_68.jpg"
+        },
+        {
+          "name": "cozywitch_69.jpg",
+          "bytes": 233342,
+          "sha256": "5326feace4703e2f050a3a2404efc8ae90d1f04353f9862c31c4751b2ba18780",
+          "url": "https://readwithveil.com/decks/v1/cozyWitch/cozywitch_69.jpg"
+        },
+        {
+          "name": "cozywitch_70.jpg",
+          "bytes": 250051,
+          "sha256": "d8db932ef316de59561bebfa6611d084423422b9a079dd9bab7564a21ff0f759",
+          "url": "https://readwithveil.com/decks/v1/cozyWitch/cozywitch_70.jpg"
+        },
+        {
+          "name": "cozywitch_71.jpg",
+          "bytes": 224063,
+          "sha256": "730f20be03ac27fff75ef281b60a8e85c9f6e49d2a1e494a36443b9af36373e8",
+          "url": "https://readwithveil.com/decks/v1/cozyWitch/cozywitch_71.jpg"
+        },
+        {
+          "name": "cozywitch_72.jpg",
+          "bytes": 228442,
+          "sha256": "1642754aee94e40f5f9b20c7d2b610817d225d1ba921f84c41bba6f5bfa7390e",
+          "url": "https://readwithveil.com/decks/v1/cozyWitch/cozywitch_72.jpg"
+        },
+        {
+          "name": "cozywitch_73.jpg",
+          "bytes": 258966,
+          "sha256": "4d5ffd4833476d00d8da3b557c90e5e334350fbac6a8ee36ce03a14fc1a5c8f6",
+          "url": "https://readwithveil.com/decks/v1/cozyWitch/cozywitch_73.jpg"
+        },
+        {
+          "name": "cozywitch_74.jpg",
+          "bytes": 232486,
+          "sha256": "b2844eaa77ec5f90194b2ec206cc9cc43c102932421696c5dbf0d0f606845631",
+          "url": "https://readwithveil.com/decks/v1/cozyWitch/cozywitch_74.jpg"
+        },
+        {
+          "name": "cozywitch_75.jpg",
+          "bytes": 214930,
+          "sha256": "74baf0885c1d66eb41139969d077f2ea0cc09983b6333bf8d27897422466a6f6",
+          "url": "https://readwithveil.com/decks/v1/cozyWitch/cozywitch_75.jpg"
+        },
+        {
+          "name": "cozywitch_76.jpg",
+          "bytes": 255857,
+          "sha256": "51197b35be9557343833731d4b8a88ebe0cbebd7692c7dda0ebefd408052e401",
+          "url": "https://readwithveil.com/decks/v1/cozyWitch/cozywitch_76.jpg"
+        },
+        {
+          "name": "cozywitch_77.jpg",
+          "bytes": 225356,
+          "sha256": "7948cfb0e125b150ef2344e655de74e8f70ea6416776875ab58acc9dfbd4299f",
+          "url": "https://readwithveil.com/decks/v1/cozyWitch/cozywitch_77.jpg"
+        }
+      ]
     }
   ]
 }
