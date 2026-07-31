@@ -1425,6 +1425,481 @@
           "url": "https://readwithveil.com/decks/v1/solaBusca1491/sola_77.jpg"
         }
       ]
+    },
+    {
+      "id": "neonArcade",
+      "version": 1,
+      "totalBytes": 15472473,
+      "files": [
+        {
+          "name": "neonarcade_00.jpg",
+          "bytes": 174450,
+          "sha256": "22b1ae33e649272ebab0be644b423f33663a73fbf2026c78bd2a5edf0d85eb8b",
+          "url": "https://readwithveil.com/decks/v1/neonArcade/neonarcade_00.jpg"
+        },
+        {
+          "name": "neonarcade_01.jpg",
+          "bytes": 210424,
+          "sha256": "7fb350213a923f5bcbbcdf01e63b4b8f4dea07d12e18b7323cb93fe3a48c8816",
+          "url": "https://readwithveil.com/decks/v1/neonArcade/neonarcade_01.jpg"
+        },
+        {
+          "name": "neonarcade_02.jpg",
+          "bytes": 202670,
+          "sha256": "d3a7469dcb9967b585b58d094692eea9fa458527c80d43a65d3de1b2528fe224",
+          "url": "https://readwithveil.com/decks/v1/neonArcade/neonarcade_02.jpg"
+        },
+        {
+          "name": "neonarcade_03.jpg",
+          "bytes": 229813,
+          "sha256": "002d847f925cd96a87719f4843e55a323a26cdac68996ee22681c85eb399f7cf",
+          "url": "https://readwithveil.com/decks/v1/neonArcade/neonarcade_03.jpg"
+        },
+        {
+          "name": "neonarcade_04.jpg",
+          "bytes": 185503,
+          "sha256": "9b56eebf8829d28233637a1fecaebfd2eb8a2d7e8eb07b9c05fa4f66cf493f12",
+          "url": "https://readwithveil.com/decks/v1/neonArcade/neonarcade_04.jpg"
+        },
+        {
+          "name": "neonarcade_05.jpg",
+          "bytes": 213702,
+          "sha256": "ec1b04b1a1adbb735493a6b26a6a8fbeca1b47ec5271ca87b10b7f745ea55077",
+          "url": "https://readwithveil.com/decks/v1/neonArcade/neonarcade_05.jpg"
+        },
+        {
+          "name": "neonarcade_06.jpg",
+          "bytes": 254066,
+          "sha256": "dda1ba95bc14b3195aa914106d9008022b3936b084d9e1e1ea518e192ffb0128",
+          "url": "https://readwithveil.com/decks/v1/neonArcade/neonarcade_06.jpg"
+        },
+        {
+          "name": "neonarcade_07.jpg",
+          "bytes": 207834,
+          "sha256": "9e99b790a39ccbb2ec6c539303ac1264f5ffeb635ba87cbf65885ef9c9c0d69a",
+          "url": "https://readwithveil.com/decks/v1/neonArcade/neonarcade_07.jpg"
+        },
+        {
+          "name": "neonarcade_08.jpg",
+          "bytes": 206874,
+          "sha256": "3100e57639d75c80a8e9c724386ef7d6b0333f784ff9b8715a3d30daa3c363cb",
+          "url": "https://readwithveil.com/decks/v1/neonArcade/neonarcade_08.jpg"
+        },
+        {
+          "name": "neonarcade_09.jpg",
+          "bytes": 164393,
+          "sha256": "48ece02d8f149c3d119d1c235e0fe6fe42418f13d7f9c1e9de85f4dbc8d0e0da",
+          "url": "https://readwithveil.com/decks/v1/neonArcade/neonarcade_09.jpg"
+        },
+        {
+          "name": "neonarcade_10.jpg",
+          "bytes": 269988,
+          "sha256": "81f2035250119d58813731b54855cb566cb34d9a1609e46c1e65ac80e4b492d2",
+          "url": "https://readwithveil.com/decks/v1/neonArcade/neonarcade_10.jpg"
+        },
+        {
+          "name": "neonarcade_11.jpg",
+          "bytes": 201362,
+          "sha256": "73714a626b2be3f7543309607ebed0d79ef4b21e34fcb302310e9f5d9f5760ad",
+          "url": "https://readwithveil.com/decks/v1/neonArcade/neonarcade_11.jpg"
+        },
+        {
+          "name": "neonarcade_12.jpg",
+          "bytes": 179965,
+          "sha256": "063c072960a6c0cfadacddef222a97b7f112d302d2ae15c4647a60fea529d73c",
+          "url": "https://readwithveil.com/decks/v1/neonArcade/neonarcade_12.jpg"
+        },
+        {
+          "name": "neonarcade_13.jpg",
+          "bytes": 216911,
+          "sha256": "fdda58eade5aa723e44b41ed8ef36e54aafad1b38037123f4eb7869ce51b4d57",
+          "url": "https://readwithveil.com/decks/v1/neonArcade/neonarcade_13.jpg"
+        },
+        {
+          "name": "neonarcade_14.jpg",
+          "bytes": 199233,
+          "sha256": "a2a0b04b19f1f334b0b4500cc6d4537752883f9a41dea539b360114acbed7f00",
+          "url": "https://readwithveil.com/decks/v1/neonArcade/neonarcade_14.jpg"
+        },
+        {
+          "name": "neonarcade_15.jpg",
+          "bytes": 220903,
+          "sha256": "189643bb2b285fb043676fd579cb4c67c13c60d1c928dc0f4f8ca21b956567f6",
+          "url": "https://readwithveil.com/decks/v1/neonArcade/neonarcade_15.jpg"
+        },
+        {
+          "name": "neonarcade_16.jpg",
+          "bytes": 199640,
+          "sha256": "76672e425b70c5e65885b68330903811c7ada716424ccd5acee441bfbf3e3273",
+          "url": "https://readwithveil.com/decks/v1/neonArcade/neonarcade_16.jpg"
+        },
+        {
+          "name": "neonarcade_17.jpg",
+          "bytes": 156925,
+          "sha256": "01c16a3fc174d8ed15e1576ec12a6257e98f4da8385ebcae4350767b0286fd86",
+          "url": "https://readwithveil.com/decks/v1/neonArcade/neonarcade_17.jpg"
+        },
+        {
+          "name": "neonarcade_18.jpg",
+          "bytes": 196561,
+          "sha256": "fa227aea6ce51c0638b890d6cea3d52c18aa2bf3968104a44521fef41976e1dc",
+          "url": "https://readwithveil.com/decks/v1/neonArcade/neonarcade_18.jpg"
+        },
+        {
+          "name": "neonarcade_19.jpg",
+          "bytes": 225096,
+          "sha256": "75e735ee02366b885840a4320fbeaf04e1dc71983eb93767448a8aa4ac2fc98e",
+          "url": "https://readwithveil.com/decks/v1/neonArcade/neonarcade_19.jpg"
+        },
+        {
+          "name": "neonarcade_20.jpg",
+          "bytes": 196509,
+          "sha256": "1d9c15fa14021024989bfd67b4c7d85a2a11f00ec6802d9d136ac63abc94f809",
+          "url": "https://readwithveil.com/decks/v1/neonArcade/neonarcade_20.jpg"
+        },
+        {
+          "name": "neonarcade_21.jpg",
+          "bytes": 218240,
+          "sha256": "c333a6873df88aa6434debfac0e1bf5a6f42e521cd65c10d8c9a336746e48151",
+          "url": "https://readwithveil.com/decks/v1/neonArcade/neonarcade_21.jpg"
+        },
+        {
+          "name": "neonarcade_22.jpg",
+          "bytes": 175063,
+          "sha256": "4a8fb552e806ab994ec08013d220109a7a63893b75f28a10df6a9286dcc9d354",
+          "url": "https://readwithveil.com/decks/v1/neonArcade/neonarcade_22.jpg"
+        },
+        {
+          "name": "neonarcade_23.jpg",
+          "bytes": 184744,
+          "sha256": "dc5a804824a10ded9cf2c2b793e5db43974e466dbc253e89e5b958458131f8e9",
+          "url": "https://readwithveil.com/decks/v1/neonArcade/neonarcade_23.jpg"
+        },
+        {
+          "name": "neonarcade_24.jpg",
+          "bytes": 173112,
+          "sha256": "d02ae2507e96139bd5321f8b7b21b4e02438da3ae7181a618013fad2c0d5d28a",
+          "url": "https://readwithveil.com/decks/v1/neonArcade/neonarcade_24.jpg"
+        },
+        {
+          "name": "neonarcade_25.jpg",
+          "bytes": 199167,
+          "sha256": "b3643077e6716fbfee560f63b1d080811495edc57f810798e4b9700dbfb21683",
+          "url": "https://readwithveil.com/decks/v1/neonArcade/neonarcade_25.jpg"
+        },
+        {
+          "name": "neonarcade_26.jpg",
+          "bytes": 150483,
+          "sha256": "cabaa5b29ecadb803f9f69d32b60975f1e92b510bb89684863ecd4efbff6d0b4",
+          "url": "https://readwithveil.com/decks/v1/neonArcade/neonarcade_26.jpg"
+        },
+        {
+          "name": "neonarcade_27.jpg",
+          "bytes": 218173,
+          "sha256": "f0ea14a7e50da27d5cdf62430fbf952db03fb5e48fa66fcf4178dc471ac3e2d6",
+          "url": "https://readwithveil.com/decks/v1/neonArcade/neonarcade_27.jpg"
+        },
+        {
+          "name": "neonarcade_28.jpg",
+          "bytes": 177014,
+          "sha256": "020ccbbde12929ab0bc2fa05cbf63d4fdb6a8757a5cae2cbd2c441193075edb5",
+          "url": "https://readwithveil.com/decks/v1/neonArcade/neonarcade_28.jpg"
+        },
+        {
+          "name": "neonarcade_29.jpg",
+          "bytes": 179566,
+          "sha256": "fc558220f97674b2b2737f415ad6977f5f60b0e69e9405d83486dc67c6491be0",
+          "url": "https://readwithveil.com/decks/v1/neonArcade/neonarcade_29.jpg"
+        },
+        {
+          "name": "neonarcade_30.jpg",
+          "bytes": 185734,
+          "sha256": "f139b4c41d688f3342783dad8bc89ebfd9fc32b5e25e6adcfca5567532e35cfd",
+          "url": "https://readwithveil.com/decks/v1/neonArcade/neonarcade_30.jpg"
+        },
+        {
+          "name": "neonarcade_31.jpg",
+          "bytes": 205150,
+          "sha256": "9c5c8434356d56268e82d411de902e5c2107047bcb88e4e1189ecc6d3114f6d6",
+          "url": "https://readwithveil.com/decks/v1/neonArcade/neonarcade_31.jpg"
+        },
+        {
+          "name": "neonarcade_32.jpg",
+          "bytes": 167122,
+          "sha256": "28b180e02d8a56f5febb099feaa1b07597746b3980012f846ccc733fc173b92e",
+          "url": "https://readwithveil.com/decks/v1/neonArcade/neonarcade_32.jpg"
+        },
+        {
+          "name": "neonarcade_33.jpg",
+          "bytes": 166070,
+          "sha256": "ba1dcb551da47bf6f49ac1471ca68ab8990969ebaebc96489fd190fc3f1e4558",
+          "url": "https://readwithveil.com/decks/v1/neonArcade/neonarcade_33.jpg"
+        },
+        {
+          "name": "neonarcade_34.jpg",
+          "bytes": 247064,
+          "sha256": "8c7afda1f6a35741ea48a1c9e3d8c18635215017fc66a627fe051a5b85cb01bc",
+          "url": "https://readwithveil.com/decks/v1/neonArcade/neonarcade_34.jpg"
+        },
+        {
+          "name": "neonarcade_35.jpg",
+          "bytes": 195001,
+          "sha256": "75367f742de047d000a6b7532cfa50cd21a2ab812d7c98174cec0b963a1d58b3",
+          "url": "https://readwithveil.com/decks/v1/neonArcade/neonarcade_35.jpg"
+        },
+        {
+          "name": "neonarcade_36.jpg",
+          "bytes": 216127,
+          "sha256": "a1a71bb060a063414604607546b2525603e0109705d01b1fbc11f41f779e0311",
+          "url": "https://readwithveil.com/decks/v1/neonArcade/neonarcade_36.jpg"
+        },
+        {
+          "name": "neonarcade_37.jpg",
+          "bytes": 207386,
+          "sha256": "79b403e0438497f29942afa59cf5d091d7e9e52c1eb330b171cdf9d563d178c7",
+          "url": "https://readwithveil.com/decks/v1/neonArcade/neonarcade_37.jpg"
+        },
+        {
+          "name": "neonarcade_38.jpg",
+          "bytes": 214653,
+          "sha256": "f58c0d5336505cad2843927736c80a5e80343b51a5f456f31f2c53014221b228",
+          "url": "https://readwithveil.com/decks/v1/neonArcade/neonarcade_38.jpg"
+        },
+        {
+          "name": "neonarcade_39.jpg",
+          "bytes": 207671,
+          "sha256": "f2abddd25320124c763b221101f177a11d308e1fde4f49312147c20bc97ce6e7",
+          "url": "https://readwithveil.com/decks/v1/neonArcade/neonarcade_39.jpg"
+        },
+        {
+          "name": "neonarcade_40.jpg",
+          "bytes": 186775,
+          "sha256": "9ca00a9ad1682ab9763feff00837ec9d24f819a8e521cf78e776785b1fbe4c17",
+          "url": "https://readwithveil.com/decks/v1/neonArcade/neonarcade_40.jpg"
+        },
+        {
+          "name": "neonarcade_41.jpg",
+          "bytes": 156515,
+          "sha256": "f845f6c93de81a29fb05455393a38efccaeecca4f4f0dd851d7e809f951952f9",
+          "url": "https://readwithveil.com/decks/v1/neonArcade/neonarcade_41.jpg"
+        },
+        {
+          "name": "neonarcade_42.jpg",
+          "bytes": 193255,
+          "sha256": "09edc1b07ea43c01e3d7dfe68dfd648683841aec7adc4b1d83d8f7abb5238d9f",
+          "url": "https://readwithveil.com/decks/v1/neonArcade/neonarcade_42.jpg"
+        },
+        {
+          "name": "neonarcade_43.jpg",
+          "bytes": 212065,
+          "sha256": "8271bb039341c659db14549c0f80d8e59449f236b78e2bfdc96545a254f350e7",
+          "url": "https://readwithveil.com/decks/v1/neonArcade/neonarcade_43.jpg"
+        },
+        {
+          "name": "neonarcade_44.jpg",
+          "bytes": 178359,
+          "sha256": "3d10941e4321ca5cadd99817254f2decee87755c33e58c49f2f78107cf77ced6",
+          "url": "https://readwithveil.com/decks/v1/neonArcade/neonarcade_44.jpg"
+        },
+        {
+          "name": "neonarcade_45.jpg",
+          "bytes": 185029,
+          "sha256": "4d2d5189997cebebb9d0b5d9afd1b113d75f81e7496770287d765535aa90121a",
+          "url": "https://readwithveil.com/decks/v1/neonArcade/neonarcade_45.jpg"
+        },
+        {
+          "name": "neonarcade_46.jpg",
+          "bytes": 186094,
+          "sha256": "52afeec5253f743e15499169b00350d38896a71ecda35e04e34e74ad86df8d16",
+          "url": "https://readwithveil.com/decks/v1/neonArcade/neonarcade_46.jpg"
+        },
+        {
+          "name": "neonarcade_47.jpg",
+          "bytes": 216072,
+          "sha256": "e6b1b192661e7ded91bdc7c746deba6c2cd5b50b7c2b310d8da5e7a75a0243f0",
+          "url": "https://readwithveil.com/decks/v1/neonArcade/neonarcade_47.jpg"
+        },
+        {
+          "name": "neonarcade_48.jpg",
+          "bytes": 202043,
+          "sha256": "af96d826b9301b1417f5a08e942719fc73b63ec70222c872b4b902c4715b351f",
+          "url": "https://readwithveil.com/decks/v1/neonArcade/neonarcade_48.jpg"
+        },
+        {
+          "name": "neonarcade_49.jpg",
+          "bytes": 204013,
+          "sha256": "f62d470693851887210291bef5f50c42937c72f229abc1f427e223604ecb1ffe",
+          "url": "https://readwithveil.com/decks/v1/neonArcade/neonarcade_49.jpg"
+        },
+        {
+          "name": "neonarcade_50.jpg",
+          "bytes": 172238,
+          "sha256": "796327842401342ebd0d93e8000a7e8eb18d60d5d0b578c2ec9382ba5b5e43ec",
+          "url": "https://readwithveil.com/decks/v1/neonArcade/neonarcade_50.jpg"
+        },
+        {
+          "name": "neonarcade_51.jpg",
+          "bytes": 156134,
+          "sha256": "c110213a4cd34adbad64ec5f235006537145b5f786fd4862767b227504d19897",
+          "url": "https://readwithveil.com/decks/v1/neonArcade/neonarcade_51.jpg"
+        },
+        {
+          "name": "neonarcade_52.jpg",
+          "bytes": 199272,
+          "sha256": "5645dd00fc405387ee4dd3d06c417f20b610bfb05e2c81c136fa7b83ca5db7c1",
+          "url": "https://readwithveil.com/decks/v1/neonArcade/neonarcade_52.jpg"
+        },
+        {
+          "name": "neonarcade_53.jpg",
+          "bytes": 172718,
+          "sha256": "8723af533859b92d29d3284dfc71c69d2ebe0073113744ae6ae6e52bc0aeebe5",
+          "url": "https://readwithveil.com/decks/v1/neonArcade/neonarcade_53.jpg"
+        },
+        {
+          "name": "neonarcade_54.jpg",
+          "bytes": 175532,
+          "sha256": "6b97e6bc297153e494927569787d9cbb9b208247bdf98a9c79dfe7753cba3ff1",
+          "url": "https://readwithveil.com/decks/v1/neonArcade/neonarcade_54.jpg"
+        },
+        {
+          "name": "neonarcade_55.jpg",
+          "bytes": 164427,
+          "sha256": "1f07bf5eba933d5592a9d1d005b1fdaf433f7cc27595a2dea072fbb8507b2d82",
+          "url": "https://readwithveil.com/decks/v1/neonArcade/neonarcade_55.jpg"
+        },
+        {
+          "name": "neonarcade_56.jpg",
+          "bytes": 171597,
+          "sha256": "2a478ddccbd9b00a1f7629fdfafa9abc0cc4c556aaffb992eb5833f35c4dba64",
+          "url": "https://readwithveil.com/decks/v1/neonArcade/neonarcade_56.jpg"
+        },
+        {
+          "name": "neonarcade_57.jpg",
+          "bytes": 194094,
+          "sha256": "c80618e208cc7e5a4085221b01c7385f95ad16744e42085462fb476889c7e4f2",
+          "url": "https://readwithveil.com/decks/v1/neonArcade/neonarcade_57.jpg"
+        },
+        {
+          "name": "neonarcade_58.jpg",
+          "bytes": 154527,
+          "sha256": "177d5e7cb4bbe475fc794a3c1370a677df613ee3455b43b8d6572b4a20e1713e",
+          "url": "https://readwithveil.com/decks/v1/neonArcade/neonarcade_58.jpg"
+        },
+        {
+          "name": "neonarcade_59.jpg",
+          "bytes": 188533,
+          "sha256": "f4f58d6539b80d6600f89165e08b600aa37be1321b9e62467a58e03910dcedd9",
+          "url": "https://readwithveil.com/decks/v1/neonArcade/neonarcade_59.jpg"
+        },
+        {
+          "name": "neonarcade_60.jpg",
+          "bytes": 200261,
+          "sha256": "b6fa4eefd06d94487982d1b63b35ff1ad4d62c6d76efd95f0f14599d834beec3",
+          "url": "https://readwithveil.com/decks/v1/neonArcade/neonarcade_60.jpg"
+        },
+        {
+          "name": "neonarcade_61.jpg",
+          "bytes": 238051,
+          "sha256": "a79150c6ec1a27bb957a0e9339c1d59320f34e5141957f8cff57f3d72204d1fd",
+          "url": "https://readwithveil.com/decks/v1/neonArcade/neonarcade_61.jpg"
+        },
+        {
+          "name": "neonarcade_62.jpg",
+          "bytes": 208530,
+          "sha256": "efce41c4480358fcb08d5f8d310e4d7f7a3272772dd483aca1e7eebac68da092",
+          "url": "https://readwithveil.com/decks/v1/neonArcade/neonarcade_62.jpg"
+        },
+        {
+          "name": "neonarcade_63.jpg",
+          "bytes": 174773,
+          "sha256": "6b4636b24d33c528dd7bfb4810708a4b6dcda3bc731149b26c72cb9348032e49",
+          "url": "https://readwithveil.com/decks/v1/neonArcade/neonarcade_63.jpg"
+        },
+        {
+          "name": "neonarcade_64.jpg",
+          "bytes": 194537,
+          "sha256": "293ad4d7d98358feb8781418a4844cdb70da2e712b58108836f7efad34f92f2f",
+          "url": "https://readwithveil.com/decks/v1/neonArcade/neonarcade_64.jpg"
+        },
+        {
+          "name": "neonarcade_65.jpg",
+          "bytes": 196992,
+          "sha256": "3f9e75508c61146ccb5935cc5168f26998cf62b2009fed1b67a8069a62e86595",
+          "url": "https://readwithveil.com/decks/v1/neonArcade/neonarcade_65.jpg"
+        },
+        {
+          "name": "neonarcade_66.jpg",
+          "bytes": 253989,
+          "sha256": "7815a9d66c9baa29ce7cef0df8fde56b3790c56c6b7a53e98e6150c1d1a8b639",
+          "url": "https://readwithveil.com/decks/v1/neonArcade/neonarcade_66.jpg"
+        },
+        {
+          "name": "neonarcade_67.jpg",
+          "bytes": 219363,
+          "sha256": "507dc7a8402ca2b906f9e77598471e09736c542b6955518860ba5e381f68ef2b",
+          "url": "https://readwithveil.com/decks/v1/neonArcade/neonarcade_67.jpg"
+        },
+        {
+          "name": "neonarcade_68.jpg",
+          "bytes": 244811,
+          "sha256": "f407e85dfaba01ba7ae84b5ce8fe596bbc1bd57367ccec0d7a6285089f4ce546",
+          "url": "https://readwithveil.com/decks/v1/neonArcade/neonarcade_68.jpg"
+        },
+        {
+          "name": "neonarcade_69.jpg",
+          "bytes": 188769,
+          "sha256": "d1feb02aca8cbe6de659190b57af654542dc35d100a69d7d76409b66186f14ae",
+          "url": "https://readwithveil.com/decks/v1/neonArcade/neonarcade_69.jpg"
+        },
+        {
+          "name": "neonarcade_70.jpg",
+          "bytes": 243793,
+          "sha256": "59658628661cbbc1d2b6ab76865c1caf9547e064042e01c3ee2d42055c05eeb6",
+          "url": "https://readwithveil.com/decks/v1/neonArcade/neonarcade_70.jpg"
+        },
+        {
+          "name": "neonarcade_71.jpg",
+          "bytes": 184432,
+          "sha256": "7f9e7917e80be12bdda940e866d45a600ed763d7c70553e490426067b8899148",
+          "url": "https://readwithveil.com/decks/v1/neonArcade/neonarcade_71.jpg"
+        },
+        {
+          "name": "neonarcade_72.jpg",
+          "bytes": 210357,
+          "sha256": "acd0a0298236059e1ed3ca9fe34011003581657642c6fc6e6cb0825678465a58",
+          "url": "https://readwithveil.com/decks/v1/neonArcade/neonarcade_72.jpg"
+        },
+        {
+          "name": "neonarcade_73.jpg",
+          "bytes": 194501,
+          "sha256": "60291a893bd67151f6aa76460d53de3d6b36d3c8c74f2b833b27c30ab53f8438",
+          "url": "https://readwithveil.com/decks/v1/neonArcade/neonarcade_73.jpg"
+        },
+        {
+          "name": "neonarcade_74.jpg",
+          "bytes": 217863,
+          "sha256": "b3bfe492337d3ca27d4c505d72345b54d4c587338d14fc64ea84c0f8284f2092",
+          "url": "https://readwithveil.com/decks/v1/neonArcade/neonarcade_74.jpg"
+        },
+        {
+          "name": "neonarcade_75.jpg",
+          "bytes": 206791,
+          "sha256": "8d6244b79516c28739116c8204a7226b1196fd477547da697cc22cf4e87f46af",
+          "url": "https://readwithveil.com/decks/v1/neonArcade/neonarcade_75.jpg"
+        },
+        {
+          "name": "neonarcade_76.jpg",
+          "bytes": 205973,
+          "sha256": "5c316214f4308b6da75879d393e2c2a64ed690af8ddbb861272a7cda57ba821e",
+          "url": "https://readwithveil.com/decks/v1/neonArcade/neonarcade_76.jpg"
+        },
+        {
+          "name": "neonarcade_77.jpg",
+          "bytes": 219033,
+          "sha256": "a8630774e49cade08ecfcb23f2a97154cccb6698e03ee84135246fc2dcbbdebf",
+          "url": "https://readwithveil.com/decks/v1/neonArcade/neonarcade_77.jpg"
+        }
+      ]
     }
   ]
 }
