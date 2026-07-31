@@ -1,0 +1,1430 @@
+{
+  "schemaVersion": 1,
+  "decks": [
+    {
+      "id": "wonderland",
+      "version": 1,
+      "totalBytes": 21579236,
+      "files": [
+        {
+          "name": "wonderland_00.jpg",
+          "bytes": 275358,
+          "sha256": "814881f26a73df877c1805b3ae3b70e8d100506a583b00a178492db11c1554df",
+          "url": "https://readwithveil.com/decks/v1/wonderland/wonderland_00.jpg"
+        },
+        {
+          "name": "wonderland_01.jpg",
+          "bytes": 279998,
+          "sha256": "d7f96d6c4fb3090b7b64d7f4f23bd4c0101fb717fe4616494ef9d2b24565cd22",
+          "url": "https://readwithveil.com/decks/v1/wonderland/wonderland_01.jpg"
+        },
+        {
+          "name": "wonderland_02.jpg",
+          "bytes": 260192,
+          "sha256": "1d2b77cb4bb04c28e82de116a560fae527b267a04338966376892cf74b6ce115",
+          "url": "https://readwithveil.com/decks/v1/wonderland/wonderland_02.jpg"
+        },
+        {
+          "name": "wonderland_03.jpg",
+          "bytes": 282266,
+          "sha256": "d467ed64167942587e95d5664899733b24b5fc8beb2b4a4f04655599a743daf5",
+          "url": "https://readwithveil.com/decks/v1/wonderland/wonderland_03.jpg"
+        },
+        {
+          "name": "wonderland_04.jpg",
+          "bytes": 270715,
+          "sha256": "b8a2a9e748780ee24fc1b29c71f2f781211679a75c7443e311b46ad77568ec19",
+          "url": "https://readwithveil.com/decks/v1/wonderland/wonderland_04.jpg"
+        },
+        {
+          "name": "wonderland_05.jpg",
+          "bytes": 289761,
+          "sha256": "7198c097bc792ab6ff668f365eeffe70adec2e668c5e104a2a69f217847ab19d",
+          "url": "https://readwithveil.com/decks/v1/wonderland/wonderland_05.jpg"
+        },
+        {
+          "name": "wonderland_06.jpg",
+          "bytes": 292954,
+          "sha256": "54b711e6be4863eec92ce286b56c28aeb191713a047763576d0aa81639b6eb30",
+          "url": "https://readwithveil.com/decks/v1/wonderland/wonderland_06.jpg"
+        },
+        {
+          "name": "wonderland_07.jpg",
+          "bytes": 280220,
+          "sha256": "3de5817425f97f4941b8caf1ba8924b14d45ee60fa5f9a7e0d9624b715d63bda",
+          "url": "https://readwithveil.com/decks/v1/wonderland/wonderland_07.jpg"
+        },
+        {
+          "name": "wonderland_08.jpg",
+          "bytes": 280088,
+          "sha256": "82eb32177ff7419441893eabcdc4c427b8e0dd485579181c3fbd94f936c29435",
+          "url": "https://readwithveil.com/decks/v1/wonderland/wonderland_08.jpg"
+        },
+        {
+          "name": "wonderland_09.jpg",
+          "bytes": 256720,
+          "sha256": "d57f349ada07877ca7685da9acde465cd91f144f35b9e3d0ba91d847d77fd213",
+          "url": "https://readwithveil.com/decks/v1/wonderland/wonderland_09.jpg"
+        },
+        {
+          "name": "wonderland_10.jpg",
+          "bytes": 285520,
+          "sha256": "4e37fac42b6a925fdefae0c61591515f3f4d27ddd426867bc37448a7d8fc04f6",
+          "url": "https://readwithveil.com/decks/v1/wonderland/wonderland_10.jpg"
+        },
+        {
+          "name": "wonderland_11.jpg",
+          "bytes": 339105,
+          "sha256": "68a88a89a98bab494370fbc5192357fe741d4623bdf9dcc93e8bb42fd23889af",
+          "url": "https://readwithveil.com/decks/v1/wonderland/wonderland_11.jpg"
+        },
+        {
+          "name": "wonderland_12.jpg",
+          "bytes": 279171,
+          "sha256": "243f928204e2bedcc5cc41a6144b37fbec5837d7bd521c367a287c5ff255812b",
+          "url": "https://readwithveil.com/decks/v1/wonderland/wonderland_12.jpg"
+        },
+        {
+          "name": "wonderland_13.jpg",
+          "bytes": 278656,
+          "sha256": "af3124cd4e4a1dc299d11d6d0ead88a07aa299abc58a248b9cf52b2d9d885c72",
+          "url": "https://readwithveil.com/decks/v1/wonderland/wonderland_13.jpg"
+        },
+        {
+          "name": "wonderland_14.jpg",
+          "bytes": 263923,
+          "sha256": "cac9dff67013caabd8724d1f08e14a92147cb3b20e4d0f563a170f1947611920",
+          "url": "https://readwithveil.com/decks/v1/wonderland/wonderland_14.jpg"
+        },
+        {
+          "name": "wonderland_15.jpg",
+          "bytes": 254926,
+          "sha256": "cef2d7c274488a5d1972ff0af0570109235f0e2058492b184514b09ee5d58abd",
+          "url": "https://readwithveil.com/decks/v1/wonderland/wonderland_15.jpg"
+        },
+        {
+          "name": "wonderland_16.jpg",
+          "bytes": 270021,
+          "sha256": "88fdd9ded9ba83dbed4b8f6efa7ddaa34366b3592d5ffc16c6e150ce0f09ae23",
+          "url": "https://readwithveil.com/decks/v1/wonderland/wonderland_16.jpg"
+        },
+        {
+          "name": "wonderland_17.jpg",
+          "bytes": 277399,
+          "sha256": "4ac11ff0562a29a99612fa427cbab1a2b220c796c6506810f04a28d7b5114c1d",
+          "url": "https://readwithveil.com/decks/v1/wonderland/wonderland_17.jpg"
+        },
+        {
+          "name": "wonderland_18.jpg",
+          "bytes": 335467,
+          "sha256": "70a3e452ab7692432edd9dc7b38d0139ad6167b8cff823544e30156208728d4b",
+          "url": "https://readwithveil.com/decks/v1/wonderland/wonderland_18.jpg"
+        },
+        {
+          "name": "wonderland_19.jpg",
+          "bytes": 300818,
+          "sha256": "78a273eaf3d5547909a38a50a782978db8718f418e5fa6f82a4a7d73b3a7b99f",
+          "url": "https://readwithveil.com/decks/v1/wonderland/wonderland_19.jpg"
+        },
+        {
+          "name": "wonderland_20.jpg",
+          "bytes": 358999,
+          "sha256": "b99fe4787f78bfefc63cbad242add85e5aed84c7674b7fd23497908f299862f4",
+          "url": "https://readwithveil.com/decks/v1/wonderland/wonderland_20.jpg"
+        },
+        {
+          "name": "wonderland_21.jpg",
+          "bytes": 288793,
+          "sha256": "86d722a36c8329f171c659b57f1b9f98867285ece91b15d5a5451a9a1e0be6ee",
+          "url": "https://readwithveil.com/decks/v1/wonderland/wonderland_21.jpg"
+        },
+        {
+          "name": "wonderland_22.jpg",
+          "bytes": 276310,
+          "sha256": "76c747c57d27b4e6414027a83ae1cd27151c8ebf2cd7bc7ae2d2c9b03eb3e947",
+          "url": "https://readwithveil.com/decks/v1/wonderland/wonderland_22.jpg"
+        },
+        {
+          "name": "wonderland_23.jpg",
+          "bytes": 272285,
+          "sha256": "0710115d35f76a859eeec09fdfc1a6374a6adfde412678dda5c91b026dcafe8b",
+          "url": "https://readwithveil.com/decks/v1/wonderland/wonderland_23.jpg"
+        },
+        {
+          "name": "wonderland_24.jpg",
+          "bytes": 276493,
+          "sha256": "ad7f9bf488193f90dd78617388a6436754e06f8ed8a4d7e90e143bf60a403274",
+          "url": "https://readwithveil.com/decks/v1/wonderland/wonderland_24.jpg"
+        },
+        {
+          "name": "wonderland_25.jpg",
+          "bytes": 278465,
+          "sha256": "c5cc100baa6d68e5aa1e0786abe6f636f8c016642301765bc5fe928985fb545b",
+          "url": "https://readwithveil.com/decks/v1/wonderland/wonderland_25.jpg"
+        },
+        {
+          "name": "wonderland_26.jpg",
+          "bytes": 270600,
+          "sha256": "1a8e04f4218450b76994e98d46d50dea54c80f8716d27de7d0f1af744c498e82",
+          "url": "https://readwithveil.com/decks/v1/wonderland/wonderland_26.jpg"
+        },
+        {
+          "name": "wonderland_27.jpg",
+          "bytes": 271419,
+          "sha256": "c1c8f5efa4cef5e31b7452b6441e9657197d3a384302715cbb8fc63ce4064901",
+          "url": "https://readwithveil.com/decks/v1/wonderland/wonderland_27.jpg"
+        },
+        {
+          "name": "wonderland_28.jpg",
+          "bytes": 273490,
+          "sha256": "17e4bee5b06bb7fa2034b3cbe947a78fc4eb620663d5df07cf9d213ab856f814",
+          "url": "https://readwithveil.com/decks/v1/wonderland/wonderland_28.jpg"
+        },
+        {
+          "name": "wonderland_29.jpg",
+          "bytes": 270394,
+          "sha256": "45d627b2b1616d6a0d30760ad6558801fc25dc585f5f6fa4fcecc55b2e1045b8",
+          "url": "https://readwithveil.com/decks/v1/wonderland/wonderland_29.jpg"
+        },
+        {
+          "name": "wonderland_30.jpg",
+          "bytes": 277133,
+          "sha256": "a25f89a9f6c110625a395602688ab1c731cdb72279b47ae8e3488b95c0e604a3",
+          "url": "https://readwithveil.com/decks/v1/wonderland/wonderland_30.jpg"
+        },
+        {
+          "name": "wonderland_31.jpg",
+          "bytes": 338513,
+          "sha256": "b8bb7ae75937feb22efad3537ede65df922d421d51da200fb79a9af6d5968c98",
+          "url": "https://readwithveil.com/decks/v1/wonderland/wonderland_31.jpg"
+        },
+        {
+          "name": "wonderland_32.jpg",
+          "bytes": 265319,
+          "sha256": "4cb67867265488af9cee2bfc0311a73d8206d5d9b824e30435bb6a68652e3dbf",
+          "url": "https://readwithveil.com/decks/v1/wonderland/wonderland_32.jpg"
+        },
+        {
+          "name": "wonderland_33.jpg",
+          "bytes": 281925,
+          "sha256": "002bd16dff28e28233793ad14c5337b71908f991290e8918668e143a9d1f93ed",
+          "url": "https://readwithveil.com/decks/v1/wonderland/wonderland_33.jpg"
+        },
+        {
+          "name": "wonderland_34.jpg",
+          "bytes": 272207,
+          "sha256": "3a2497b0c838a8eca6772f08cd21fcc3e41499c6deddcf95685e7c0d068adeca",
+          "url": "https://readwithveil.com/decks/v1/wonderland/wonderland_34.jpg"
+        },
+        {
+          "name": "wonderland_35.jpg",
+          "bytes": 272452,
+          "sha256": "36cc20456756cbada44ac2ed034b8e81cf6c96fb0dd9558526861d06b3358981",
+          "url": "https://readwithveil.com/decks/v1/wonderland/wonderland_35.jpg"
+        },
+        {
+          "name": "wonderland_36.jpg",
+          "bytes": 258773,
+          "sha256": "fd3c37f0388a66f46f442f2725f54c27eba8c934a08948cd6b71f97adcbb34b7",
+          "url": "https://readwithveil.com/decks/v1/wonderland/wonderland_36.jpg"
+        },
+        {
+          "name": "wonderland_37.jpg",
+          "bytes": 280208,
+          "sha256": "500c044f7fa86bd7ba14a173f721c61742b5fbd3db73647124a780e99fe70f76",
+          "url": "https://readwithveil.com/decks/v1/wonderland/wonderland_37.jpg"
+        },
+        {
+          "name": "wonderland_38.jpg",
+          "bytes": 262432,
+          "sha256": "ecfde436b414ed12d9f927c01fdac39d80a0ca9d43c18b7c7e814fa2ce01d386",
+          "url": "https://readwithveil.com/decks/v1/wonderland/wonderland_38.jpg"
+        },
+        {
+          "name": "wonderland_39.jpg",
+          "bytes": 276761,
+          "sha256": "91c1e6afa3e298bb03693b226265e01a48c3ec9835a9213956bf51f2da79809a",
+          "url": "https://readwithveil.com/decks/v1/wonderland/wonderland_39.jpg"
+        },
+        {
+          "name": "wonderland_40.jpg",
+          "bytes": 261426,
+          "sha256": "1262c0133f3f57c5ce1ecada8f5c0f551b8111a35c0c40b9751729ed81e7e751",
+          "url": "https://readwithveil.com/decks/v1/wonderland/wonderland_40.jpg"
+        },
+        {
+          "name": "wonderland_41.jpg",
+          "bytes": 261564,
+          "sha256": "6e23b18fc1f5de1c783e0868e9c5b930ed4bdb28c66dfa48895219cb564d468c",
+          "url": "https://readwithveil.com/decks/v1/wonderland/wonderland_41.jpg"
+        },
+        {
+          "name": "wonderland_42.jpg",
+          "bytes": 273635,
+          "sha256": "542a8bd21f8e5c50dd795498d00b08bb8a80c6035003178c925faf7208e656e1",
+          "url": "https://readwithveil.com/decks/v1/wonderland/wonderland_42.jpg"
+        },
+        {
+          "name": "wonderland_43.jpg",
+          "bytes": 258876,
+          "sha256": "047896b9e547d4d70862eadc498868a71dc73dc046abf138ea6713e2de131c4d",
+          "url": "https://readwithveil.com/decks/v1/wonderland/wonderland_43.jpg"
+        },
+        {
+          "name": "wonderland_44.jpg",
+          "bytes": 263516,
+          "sha256": "47d2cc8913695d824298983f60e984accb27dac0eb9565700385ae8d74046c97",
+          "url": "https://readwithveil.com/decks/v1/wonderland/wonderland_44.jpg"
+        },
+        {
+          "name": "wonderland_45.jpg",
+          "bytes": 256014,
+          "sha256": "af619f17c15d77b542a3b49d8ba6ca99907fcff806fe9c13c375e7ad5c241a49",
+          "url": "https://readwithveil.com/decks/v1/wonderland/wonderland_45.jpg"
+        },
+        {
+          "name": "wonderland_46.jpg",
+          "bytes": 341281,
+          "sha256": "a9ff96accffb6e44bf544a9cd732dae700c1fec4dd07a648be21ebd4a57604a9",
+          "url": "https://readwithveil.com/decks/v1/wonderland/wonderland_46.jpg"
+        },
+        {
+          "name": "wonderland_47.jpg",
+          "bytes": 258920,
+          "sha256": "39ff8fd346f9ee22ff66357319164b56c3b753c0bae97272f5f8b625e66a9198",
+          "url": "https://readwithveil.com/decks/v1/wonderland/wonderland_47.jpg"
+        },
+        {
+          "name": "wonderland_48.jpg",
+          "bytes": 256210,
+          "sha256": "24de64b04b35cdb89d797954b062d95d686d6f1a1e0f48c1089f620a12ce18b1",
+          "url": "https://readwithveil.com/decks/v1/wonderland/wonderland_48.jpg"
+        },
+        {
+          "name": "wonderland_49.jpg",
+          "bytes": 268268,
+          "sha256": "4c6a9b930e08f9de9968d32c610352fdb861faac25090d0d33cd80cccd6604d8",
+          "url": "https://readwithveil.com/decks/v1/wonderland/wonderland_49.jpg"
+        },
+        {
+          "name": "wonderland_50.jpg",
+          "bytes": 262123,
+          "sha256": "3db04097f92c9f1a262d36b2891f4e81430baa47f90271aa2a3080a75a93bbfd",
+          "url": "https://readwithveil.com/decks/v1/wonderland/wonderland_50.jpg"
+        },
+        {
+          "name": "wonderland_51.jpg",
+          "bytes": 266319,
+          "sha256": "67b27deefc50da547b7f883aa428f3fd458771099fcbfc72103a75c62c582d40",
+          "url": "https://readwithveil.com/decks/v1/wonderland/wonderland_51.jpg"
+        },
+        {
+          "name": "wonderland_52.jpg",
+          "bytes": 263224,
+          "sha256": "3380ef0ee2bcae3ccccfd3fce1fc5babc90c55e84ebf139109d7dccc3ffd0b8b",
+          "url": "https://readwithveil.com/decks/v1/wonderland/wonderland_52.jpg"
+        },
+        {
+          "name": "wonderland_53.jpg",
+          "bytes": 259635,
+          "sha256": "3ecdbf44b1621a718dec9ae7fb7d0a15ca10822e7143a30e5c69dc37a14ff4f2",
+          "url": "https://readwithveil.com/decks/v1/wonderland/wonderland_53.jpg"
+        },
+        {
+          "name": "wonderland_54.jpg",
+          "bytes": 326956,
+          "sha256": "df53b40d20842ed54f5912e062a65c35ee6ad740ad765aa20d7c11f94328d8ad",
+          "url": "https://readwithveil.com/decks/v1/wonderland/wonderland_54.jpg"
+        },
+        {
+          "name": "wonderland_55.jpg",
+          "bytes": 273371,
+          "sha256": "9c62f7a8c0d6e40db8ac17a0414a522fde300ae80c1768db89bf9c0707e879f3",
+          "url": "https://readwithveil.com/decks/v1/wonderland/wonderland_55.jpg"
+        },
+        {
+          "name": "wonderland_56.jpg",
+          "bytes": 263595,
+          "sha256": "78a29b8ac2dbf6546f1e5d5ce91c544b882d53523a7bca19499e2ba2b0907af3",
+          "url": "https://readwithveil.com/decks/v1/wonderland/wonderland_56.jpg"
+        },
+        {
+          "name": "wonderland_57.jpg",
+          "bytes": 270634,
+          "sha256": "a93a7663e463d0a6f7636870cd49d4dd071bfd6e7edcbc21c3e112cfcabb0f98",
+          "url": "https://readwithveil.com/decks/v1/wonderland/wonderland_57.jpg"
+        },
+        {
+          "name": "wonderland_58.jpg",
+          "bytes": 258025,
+          "sha256": "1f1cd117403fede5cedf86aae24c2dabf37082522793cf501279a4764138d53d",
+          "url": "https://readwithveil.com/decks/v1/wonderland/wonderland_58.jpg"
+        },
+        {
+          "name": "wonderland_59.jpg",
+          "bytes": 272417,
+          "sha256": "b9d444cc1e8fa366e68ee6e35a38ecfc4c65f2d1c759160114e0d3682bf06872",
+          "url": "https://readwithveil.com/decks/v1/wonderland/wonderland_59.jpg"
+        },
+        {
+          "name": "wonderland_60.jpg",
+          "bytes": 268269,
+          "sha256": "5445c3184e67cfcc648d844b71a4355b6826f634e7c9a746e4c9eac55be2816d",
+          "url": "https://readwithveil.com/decks/v1/wonderland/wonderland_60.jpg"
+        },
+        {
+          "name": "wonderland_61.jpg",
+          "bytes": 259953,
+          "sha256": "dfd683ec3c056afd50deb794109b17bf47c768fb7bcff0027b27a2f8a44f1b71",
+          "url": "https://readwithveil.com/decks/v1/wonderland/wonderland_61.jpg"
+        },
+        {
+          "name": "wonderland_62.jpg",
+          "bytes": 270787,
+          "sha256": "66c61324bb774ff40a6b4c970b80be71e72c598186d32b30fcbe808a7b7dbc81",
+          "url": "https://readwithveil.com/decks/v1/wonderland/wonderland_62.jpg"
+        },
+        {
+          "name": "wonderland_63.jpg",
+          "bytes": 262382,
+          "sha256": "cc448bee124d80a205a2b506f04c8ea0f736ff506d0644a9701eac5451347dc1",
+          "url": "https://readwithveil.com/decks/v1/wonderland/wonderland_63.jpg"
+        },
+        {
+          "name": "wonderland_64.jpg",
+          "bytes": 268637,
+          "sha256": "84f9090ddec4668fce637ef2960f3ee35770874d06745bd7a62b316fe41b4ebd",
+          "url": "https://readwithveil.com/decks/v1/wonderland/wonderland_64.jpg"
+        },
+        {
+          "name": "wonderland_65.jpg",
+          "bytes": 263753,
+          "sha256": "3c3ef490f412865b5d28d0bcd4f9faa549111e01bb7fe17a742ff783f5302073",
+          "url": "https://readwithveil.com/decks/v1/wonderland/wonderland_65.jpg"
+        },
+        {
+          "name": "wonderland_66.jpg",
+          "bytes": 261857,
+          "sha256": "b39e21f1158cdfd906a0e65ff754f508f7a02cf5d37e37781d15dc6c1bccc305",
+          "url": "https://readwithveil.com/decks/v1/wonderland/wonderland_66.jpg"
+        },
+        {
+          "name": "wonderland_67.jpg",
+          "bytes": 267382,
+          "sha256": "51109693d6f3ac412f8b301e82d18996d14c28e389de69f4a2370f0e7a63cbe2",
+          "url": "https://readwithveil.com/decks/v1/wonderland/wonderland_67.jpg"
+        },
+        {
+          "name": "wonderland_68.jpg",
+          "bytes": 258807,
+          "sha256": "371dd2878ee65dffe809a117c51ba17fbefb28390038fcec37a0f15a512af068",
+          "url": "https://readwithveil.com/decks/v1/wonderland/wonderland_68.jpg"
+        },
+        {
+          "name": "wonderland_69.jpg",
+          "bytes": 281311,
+          "sha256": "44b4c54d011a2e7be73de9f2082259238050511db128730707a4229c0c9ca32a",
+          "url": "https://readwithveil.com/decks/v1/wonderland/wonderland_69.jpg"
+        },
+        {
+          "name": "wonderland_70.jpg",
+          "bytes": 275652,
+          "sha256": "ff74c9bbd651a09e3e54fd212d630e03bcfab0581e7db12601a20c168e2dcddc",
+          "url": "https://readwithveil.com/decks/v1/wonderland/wonderland_70.jpg"
+        },
+        {
+          "name": "wonderland_71.jpg",
+          "bytes": 285303,
+          "sha256": "7d9b61799b228c15c19d393bd8b1cc60b9bcafecedb6171e7525146fb4134a35",
+          "url": "https://readwithveil.com/decks/v1/wonderland/wonderland_71.jpg"
+        },
+        {
+          "name": "wonderland_72.jpg",
+          "bytes": 271613,
+          "sha256": "03e7c9d10d357a5a9f457a5cd22f44550895a045519ff2795b9f15ccfea5163d",
+          "url": "https://readwithveil.com/decks/v1/wonderland/wonderland_72.jpg"
+        },
+        {
+          "name": "wonderland_73.jpg",
+          "bytes": 280198,
+          "sha256": "5c01ee280a206d2a628f456518c797affcda47491063d57fd0c78dc6836a4676",
+          "url": "https://readwithveil.com/decks/v1/wonderland/wonderland_73.jpg"
+        },
+        {
+          "name": "wonderland_74.jpg",
+          "bytes": 285332,
+          "sha256": "99ff0ff136073799658e6a99b95fa06db4f9a982e71192a1633b6e256905bc73",
+          "url": "https://readwithveil.com/decks/v1/wonderland/wonderland_74.jpg"
+        },
+        {
+          "name": "wonderland_75.jpg",
+          "bytes": 278905,
+          "sha256": "3099e6bfb5325eeec553bf4c4baaf75ce6e92320bef9a84fd645e1a4c5d1a09f",
+          "url": "https://readwithveil.com/decks/v1/wonderland/wonderland_75.jpg"
+        },
+        {
+          "name": "wonderland_76.jpg",
+          "bytes": 276201,
+          "sha256": "5886757db2584e0d32d50169d932784a0b89fc789bc89765c7b0282a54fb9f15",
+          "url": "https://readwithveil.com/decks/v1/wonderland/wonderland_76.jpg"
+        },
+        {
+          "name": "wonderland_77.jpg",
+          "bytes": 270636,
+          "sha256": "50a7a147458be0ac90f33072cf139770e9b7cbc867f870a29cb9e8ca6130c99b",
+          "url": "https://readwithveil.com/decks/v1/wonderland/wonderland_77.jpg"
+        }
+      ]
+    },
+    {
+      "id": "brightPath",
+      "version": 1,
+      "totalBytes": 18990685,
+      "files": [
+        {
+          "name": "brightpath_00.jpg",
+          "bytes": 234142,
+          "sha256": "3f0557b22b0d38361469d812b176f6bb4716af1f35e1a243fa5ca0c46f27cc77",
+          "url": "https://readwithveil.com/decks/v1/brightPath/brightpath_00.jpg"
+        },
+        {
+          "name": "brightpath_01.jpg",
+          "bytes": 244158,
+          "sha256": "8b437bf6cc2ed10221c02b8104fa0d7d786ba58ed7ea7a2e878eeb5d319da6d6",
+          "url": "https://readwithveil.com/decks/v1/brightPath/brightpath_01.jpg"
+        },
+        {
+          "name": "brightpath_02.jpg",
+          "bytes": 246556,
+          "sha256": "891f96fb1de3951760969d673f919835aa0aa680aa01396a44c879bf3b99d386",
+          "url": "https://readwithveil.com/decks/v1/brightPath/brightpath_02.jpg"
+        },
+        {
+          "name": "brightpath_03.jpg",
+          "bytes": 256047,
+          "sha256": "561bb3b8f66a2700dc054080135e244bc569250592afc2a4ee285a752eb9f8dc",
+          "url": "https://readwithveil.com/decks/v1/brightPath/brightpath_03.jpg"
+        },
+        {
+          "name": "brightpath_04.jpg",
+          "bytes": 238315,
+          "sha256": "09c28b7ee19aae81fe85c6e0eb1b0d71b6a850bd2d121527f18de250142535fe",
+          "url": "https://readwithveil.com/decks/v1/brightPath/brightpath_04.jpg"
+        },
+        {
+          "name": "brightpath_05.jpg",
+          "bytes": 241449,
+          "sha256": "98bee57dd1cfad2c2a96d0c1023d97755022991245137df89e09ad858644c8e5",
+          "url": "https://readwithveil.com/decks/v1/brightPath/brightpath_05.jpg"
+        },
+        {
+          "name": "brightpath_06.jpg",
+          "bytes": 241368,
+          "sha256": "0bca816e1856a3bb4ef5f09905652d6d86245607549626adb0621c09faabfea8",
+          "url": "https://readwithveil.com/decks/v1/brightPath/brightpath_06.jpg"
+        },
+        {
+          "name": "brightpath_07.jpg",
+          "bytes": 237966,
+          "sha256": "475030877147516880029470ce337ec447d19830f59e9613fb228e63115dda06",
+          "url": "https://readwithveil.com/decks/v1/brightPath/brightpath_07.jpg"
+        },
+        {
+          "name": "brightpath_08.jpg",
+          "bytes": 231340,
+          "sha256": "79bc742313242f53b6316b34e1215322ceb80ab99020f7af287e22f128b3ffb6",
+          "url": "https://readwithveil.com/decks/v1/brightPath/brightpath_08.jpg"
+        },
+        {
+          "name": "brightpath_09.jpg",
+          "bytes": 232860,
+          "sha256": "523ced1cb77bc62c2aff1f1d122dc59d9f409ad064b6dd631352283f14a8fdd5",
+          "url": "https://readwithveil.com/decks/v1/brightPath/brightpath_09.jpg"
+        },
+        {
+          "name": "brightpath_10.jpg",
+          "bytes": 264839,
+          "sha256": "7a5f96816c0712a5686062158fa490e7ff8b07a204f98f9775a8261828a84f74",
+          "url": "https://readwithveil.com/decks/v1/brightPath/brightpath_10.jpg"
+        },
+        {
+          "name": "brightpath_11.jpg",
+          "bytes": 247087,
+          "sha256": "8338f71a0447b96014cd101067548eff16291993ed2160b0432235da7311c92e",
+          "url": "https://readwithveil.com/decks/v1/brightPath/brightpath_11.jpg"
+        },
+        {
+          "name": "brightpath_12.jpg",
+          "bytes": 236645,
+          "sha256": "145ffa99793bc3304e719719b4680a3ea4a42ba9325f8200f726ea2781d1cd92",
+          "url": "https://readwithveil.com/decks/v1/brightPath/brightpath_12.jpg"
+        },
+        {
+          "name": "brightpath_13.jpg",
+          "bytes": 238126,
+          "sha256": "cf862836021a3c4d5f6998ae2d0c518aa9d11392f0a03707e3ce1c26bd0229bc",
+          "url": "https://readwithveil.com/decks/v1/brightPath/brightpath_13.jpg"
+        },
+        {
+          "name": "brightpath_14.jpg",
+          "bytes": 250434,
+          "sha256": "6dca75885672d4fdb2402f1d80b2851e400212d8ce2d339fcc07545e4356c3bd",
+          "url": "https://readwithveil.com/decks/v1/brightPath/brightpath_14.jpg"
+        },
+        {
+          "name": "brightpath_15.jpg",
+          "bytes": 248695,
+          "sha256": "cc23b3208551989cc32d813716be747efbbea49dad4cc87038a4edc838e94b57",
+          "url": "https://readwithveil.com/decks/v1/brightPath/brightpath_15.jpg"
+        },
+        {
+          "name": "brightpath_16.jpg",
+          "bytes": 237103,
+          "sha256": "b9212526d409b33601b9f786e009f82d0f3f9d065c4497fdad4b71b8fa0d9079",
+          "url": "https://readwithveil.com/decks/v1/brightPath/brightpath_16.jpg"
+        },
+        {
+          "name": "brightpath_17.jpg",
+          "bytes": 243788,
+          "sha256": "230126d89eb5183d1e43b2f0b34516d30d0027ef2124bdc6dfe86b4450dc1997",
+          "url": "https://readwithveil.com/decks/v1/brightPath/brightpath_17.jpg"
+        },
+        {
+          "name": "brightpath_18.jpg",
+          "bytes": 249130,
+          "sha256": "f50c0bb8c8a85432565bdc16e74a17cda53b7a21fac203935624e97170d3f963",
+          "url": "https://readwithveil.com/decks/v1/brightPath/brightpath_18.jpg"
+        },
+        {
+          "name": "brightpath_19.jpg",
+          "bytes": 233382,
+          "sha256": "de4e2eb64b952668a7a70be4c9e00f8919859ed5d3f2ef1aa208d12f54f60d70",
+          "url": "https://readwithveil.com/decks/v1/brightPath/brightpath_19.jpg"
+        },
+        {
+          "name": "brightpath_20.jpg",
+          "bytes": 240329,
+          "sha256": "ca6bd33c07a27a2f248af7117258cbf7c26528ead96dd75bca850521289f930b",
+          "url": "https://readwithveil.com/decks/v1/brightPath/brightpath_20.jpg"
+        },
+        {
+          "name": "brightpath_21.jpg",
+          "bytes": 240047,
+          "sha256": "2aeab4bfe1254c9774bb92ef487cfc75d7f040e692c210a94027acea2e10430e",
+          "url": "https://readwithveil.com/decks/v1/brightPath/brightpath_21.jpg"
+        },
+        {
+          "name": "brightpath_22.jpg",
+          "bytes": 235483,
+          "sha256": "5174e09e20240e1d490d129adc5f744d127681fc0bbc34ede355000848034434",
+          "url": "https://readwithveil.com/decks/v1/brightPath/brightpath_22.jpg"
+        },
+        {
+          "name": "brightpath_23.jpg",
+          "bytes": 228667,
+          "sha256": "6698b2d7b84f4f6ea3b62d6d6fc0235e6cc82cf21a4c865b575b58b6c53ad598",
+          "url": "https://readwithveil.com/decks/v1/brightPath/brightpath_23.jpg"
+        },
+        {
+          "name": "brightpath_24.jpg",
+          "bytes": 234038,
+          "sha256": "b579758667406ea45156135571062fcf4e09f51bc97b87f8fcc9b0b4d986482a",
+          "url": "https://readwithveil.com/decks/v1/brightPath/brightpath_24.jpg"
+        },
+        {
+          "name": "brightpath_25.jpg",
+          "bytes": 272372,
+          "sha256": "f89d5840ed7869e5e0e20b64b099329d7f8612b2d3410d61e065e7ec1c431ab9",
+          "url": "https://readwithveil.com/decks/v1/brightPath/brightpath_25.jpg"
+        },
+        {
+          "name": "brightpath_26.jpg",
+          "bytes": 257680,
+          "sha256": "f2249f9d703dc05665a7a5a9432380cd30bb7a89c6f6f8eb829d93ce0ca1e579",
+          "url": "https://readwithveil.com/decks/v1/brightPath/brightpath_26.jpg"
+        },
+        {
+          "name": "brightpath_27.jpg",
+          "bytes": 241816,
+          "sha256": "f023cf0b177dd4b6ea8b2a3877b893bf84cb86868705ae8a18cf815da86db639",
+          "url": "https://readwithveil.com/decks/v1/brightPath/brightpath_27.jpg"
+        },
+        {
+          "name": "brightpath_28.jpg",
+          "bytes": 230154,
+          "sha256": "d02ad3cbe879498492ce35238eb0c66a0e950353a4f41a6c0e5e9cf94738ae92",
+          "url": "https://readwithveil.com/decks/v1/brightPath/brightpath_28.jpg"
+        },
+        {
+          "name": "brightpath_29.jpg",
+          "bytes": 241163,
+          "sha256": "f10805234fd31374e2bc95b39aad8fd1a01297c000410b482c92d2db7e49ce6b",
+          "url": "https://readwithveil.com/decks/v1/brightPath/brightpath_29.jpg"
+        },
+        {
+          "name": "brightpath_30.jpg",
+          "bytes": 256964,
+          "sha256": "1ecbdcd5994518215ad1ef17ad51f6e245c7b2f8479d5cc04bdd0ab84dd3130d",
+          "url": "https://readwithveil.com/decks/v1/brightPath/brightpath_30.jpg"
+        },
+        {
+          "name": "brightpath_31.jpg",
+          "bytes": 252725,
+          "sha256": "367ff41f3889dfd5b9658abb4416d8843306f33c8b5e4f3c98fa619a79c4b26b",
+          "url": "https://readwithveil.com/decks/v1/brightPath/brightpath_31.jpg"
+        },
+        {
+          "name": "brightpath_32.jpg",
+          "bytes": 240919,
+          "sha256": "ed7d000d089256b7a00af34b448937ea70339d19f6a32d9225b2ff625992cd3a",
+          "url": "https://readwithveil.com/decks/v1/brightPath/brightpath_32.jpg"
+        },
+        {
+          "name": "brightpath_33.jpg",
+          "bytes": 230220,
+          "sha256": "4f59f93a362031021330e2acf6c67b68f8332c33c66ac0fb6ab131d69690e27e",
+          "url": "https://readwithveil.com/decks/v1/brightPath/brightpath_33.jpg"
+        },
+        {
+          "name": "brightpath_34.jpg",
+          "bytes": 249263,
+          "sha256": "f674bce5122f1c70fda4376e76015aed6a0afc3e014dc2dc14b2d8cb0203ab6c",
+          "url": "https://readwithveil.com/decks/v1/brightPath/brightpath_34.jpg"
+        },
+        {
+          "name": "brightpath_35.jpg",
+          "bytes": 252384,
+          "sha256": "eb7207cc8bb949f87bbccce06f85fe1a8b622501048cc1cba9378ac66d3ac767",
+          "url": "https://readwithveil.com/decks/v1/brightPath/brightpath_35.jpg"
+        },
+        {
+          "name": "brightpath_36.jpg",
+          "bytes": 238377,
+          "sha256": "2e4b7aa4bc66426846f795c80027cae11a74645ed1e8d8dd141853e6446837ef",
+          "url": "https://readwithveil.com/decks/v1/brightPath/brightpath_36.jpg"
+        },
+        {
+          "name": "brightpath_37.jpg",
+          "bytes": 240694,
+          "sha256": "03fe293b9bfa68d4392dec0f9e733aa814b980f10663dde8d3174c2c1ff4d0a7",
+          "url": "https://readwithveil.com/decks/v1/brightPath/brightpath_37.jpg"
+        },
+        {
+          "name": "brightpath_38.jpg",
+          "bytes": 239602,
+          "sha256": "6faf521321d0dfbf272723387ddd4e215055ec68626fbeeb8947fa9e3fec7f04",
+          "url": "https://readwithveil.com/decks/v1/brightPath/brightpath_38.jpg"
+        },
+        {
+          "name": "brightpath_39.jpg",
+          "bytes": 228659,
+          "sha256": "caf5ab45e5391124fd6b727b9a7b2462a91cf350a9cd6cfc10eadd76a8b65aa1",
+          "url": "https://readwithveil.com/decks/v1/brightPath/brightpath_39.jpg"
+        },
+        {
+          "name": "brightpath_40.jpg",
+          "bytes": 241971,
+          "sha256": "a92943d059315a650a0fa4dc8de5e44bae09df22f357b3808c3dedda36964041",
+          "url": "https://readwithveil.com/decks/v1/brightPath/brightpath_40.jpg"
+        },
+        {
+          "name": "brightpath_41.jpg",
+          "bytes": 242157,
+          "sha256": "d1d01cc13eed19d3a474a6551da5843fa3c5377c75e40995be13a4672eff0ae2",
+          "url": "https://readwithveil.com/decks/v1/brightPath/brightpath_41.jpg"
+        },
+        {
+          "name": "brightpath_42.jpg",
+          "bytes": 231630,
+          "sha256": "abcb0aab0413b3294f282f4ab6f5320f6e1931455e93d62bcd285813f935da85",
+          "url": "https://readwithveil.com/decks/v1/brightPath/brightpath_42.jpg"
+        },
+        {
+          "name": "brightpath_43.jpg",
+          "bytes": 244844,
+          "sha256": "b16a1287f9bab49cf17b1651f672b5754ff4a72c7e4c7a795556e48e27bad4f0",
+          "url": "https://readwithveil.com/decks/v1/brightPath/brightpath_43.jpg"
+        },
+        {
+          "name": "brightpath_44.jpg",
+          "bytes": 246248,
+          "sha256": "f7b9b344212936c832c515ed92cac20db9101ffc5374d1efdbe7ff0e8a6bcccf",
+          "url": "https://readwithveil.com/decks/v1/brightPath/brightpath_44.jpg"
+        },
+        {
+          "name": "brightpath_45.jpg",
+          "bytes": 251294,
+          "sha256": "99948e48c073c23a8b7267cffda33565e46955f327f26275125d0b70e2dc0200",
+          "url": "https://readwithveil.com/decks/v1/brightPath/brightpath_45.jpg"
+        },
+        {
+          "name": "brightpath_46.jpg",
+          "bytes": 225099,
+          "sha256": "c4ce982a47a7069126b511ecab4a2ab4d9f34edbb22460aaafad3950014790c9",
+          "url": "https://readwithveil.com/decks/v1/brightPath/brightpath_46.jpg"
+        },
+        {
+          "name": "brightpath_47.jpg",
+          "bytes": 233650,
+          "sha256": "9ae1bdf07c0a51cc75af1dc8e02272c66d93257f7656165a33e3429b8f0c1f1f",
+          "url": "https://readwithveil.com/decks/v1/brightPath/brightpath_47.jpg"
+        },
+        {
+          "name": "brightpath_48.jpg",
+          "bytes": 244548,
+          "sha256": "66f374cf71375c65a8c0bf78a92b25a8f1e08a6a98fd14662d44fc733d74bbda",
+          "url": "https://readwithveil.com/decks/v1/brightPath/brightpath_48.jpg"
+        },
+        {
+          "name": "brightpath_49.jpg",
+          "bytes": 247253,
+          "sha256": "2a2771d8a15f90dcf59ae7a99372cba1c56baba2ec5f1dca9d6539e0ee5a1011",
+          "url": "https://readwithveil.com/decks/v1/brightPath/brightpath_49.jpg"
+        },
+        {
+          "name": "brightpath_50.jpg",
+          "bytes": 222795,
+          "sha256": "27f5550b0f8317faf127d7c31977b5a58ecbd9efc3915c6f9d17f52c58932013",
+          "url": "https://readwithveil.com/decks/v1/brightPath/brightpath_50.jpg"
+        },
+        {
+          "name": "brightpath_51.jpg",
+          "bytes": 226771,
+          "sha256": "8ffa031a2b4d68184826a15fe67714fca706fc43b0a3b1aa55ebfded430d387c",
+          "url": "https://readwithveil.com/decks/v1/brightPath/brightpath_51.jpg"
+        },
+        {
+          "name": "brightpath_52.jpg",
+          "bytes": 232749,
+          "sha256": "e1dc4353beed060ed73e140214f2f70c749b6ea512aa4612accf730aa7c2ffc4",
+          "url": "https://readwithveil.com/decks/v1/brightPath/brightpath_52.jpg"
+        },
+        {
+          "name": "brightpath_53.jpg",
+          "bytes": 240608,
+          "sha256": "9e1043dee9cb388c7c9c421fb0a1634379f64186aecc955c4caad350e12a8a3d",
+          "url": "https://readwithveil.com/decks/v1/brightPath/brightpath_53.jpg"
+        },
+        {
+          "name": "brightpath_54.jpg",
+          "bytes": 246007,
+          "sha256": "b4ecb469b146d63a409a205f0705156065982aeba02dd82401092792f671e539",
+          "url": "https://readwithveil.com/decks/v1/brightPath/brightpath_54.jpg"
+        },
+        {
+          "name": "brightpath_55.jpg",
+          "bytes": 229041,
+          "sha256": "cdf85b5f2dd445b70521b99f9c3eed9d369b811969f59cf5d7e1d29a6bb0868f",
+          "url": "https://readwithveil.com/decks/v1/brightPath/brightpath_55.jpg"
+        },
+        {
+          "name": "brightpath_56.jpg",
+          "bytes": 249181,
+          "sha256": "7b7594ece18d55b4718e6b410099e50d97b5c8d8cf1e78a8ef6d0c70c9caf142",
+          "url": "https://readwithveil.com/decks/v1/brightPath/brightpath_56.jpg"
+        },
+        {
+          "name": "brightpath_57.jpg",
+          "bytes": 239309,
+          "sha256": "9feb9e69deb01dcf3e6371bc3d887293719ef7b1ee93569c7f53b7fe274fd805",
+          "url": "https://readwithveil.com/decks/v1/brightPath/brightpath_57.jpg"
+        },
+        {
+          "name": "brightpath_58.jpg",
+          "bytes": 243505,
+          "sha256": "403bd215efb055c2cce403cfa804e5bec7caa538daee3722cc411f8aa58611b6",
+          "url": "https://readwithveil.com/decks/v1/brightPath/brightpath_58.jpg"
+        },
+        {
+          "name": "brightpath_59.jpg",
+          "bytes": 238090,
+          "sha256": "13e1b403ec7e5a7ff537e0e457b097f4c9d701ebc5804caafd9bfd7ee9366c8a",
+          "url": "https://readwithveil.com/decks/v1/brightPath/brightpath_59.jpg"
+        },
+        {
+          "name": "brightpath_60.jpg",
+          "bytes": 231980,
+          "sha256": "9992c71cc878f4f6711526ac337c53970697b0cc2c6e136d62a868e2a8a5b302",
+          "url": "https://readwithveil.com/decks/v1/brightPath/brightpath_60.jpg"
+        },
+        {
+          "name": "brightpath_61.jpg",
+          "bytes": 236763,
+          "sha256": "bb8eb758b5d6be252feafb3fa24d924f3aa4c93ad8b7aac7241194fe09609790",
+          "url": "https://readwithveil.com/decks/v1/brightPath/brightpath_61.jpg"
+        },
+        {
+          "name": "brightpath_62.jpg",
+          "bytes": 235814,
+          "sha256": "6bca2bc6e7b3ad1a03d46897e346d616901617a20183760b91315abbf50fccff",
+          "url": "https://readwithveil.com/decks/v1/brightPath/brightpath_62.jpg"
+        },
+        {
+          "name": "brightpath_63.jpg",
+          "bytes": 231761,
+          "sha256": "9160084768786333751f85cd7d02b930b77485c730f3b17c2aa21cd2cbe59771",
+          "url": "https://readwithveil.com/decks/v1/brightPath/brightpath_63.jpg"
+        },
+        {
+          "name": "brightpath_64.jpg",
+          "bytes": 254179,
+          "sha256": "1ca6f0d88c4089e228ccdb73b440aaea538b3db029fce1c66265824a81477c12",
+          "url": "https://readwithveil.com/decks/v1/brightPath/brightpath_64.jpg"
+        },
+        {
+          "name": "brightpath_65.jpg",
+          "bytes": 251507,
+          "sha256": "c0a291d752ecb23897cf7201edcab0b5a85414a4afbc890f2cf03ba33d16c83b",
+          "url": "https://readwithveil.com/decks/v1/brightPath/brightpath_65.jpg"
+        },
+        {
+          "name": "brightpath_66.jpg",
+          "bytes": 247300,
+          "sha256": "37035b25e425ecad37fffb2631baf73f61214c4324e5689b48f479aecbfefb7f",
+          "url": "https://readwithveil.com/decks/v1/brightPath/brightpath_66.jpg"
+        },
+        {
+          "name": "brightpath_67.jpg",
+          "bytes": 240770,
+          "sha256": "ce685c051f2751c93b67402e3cb8cd3a1907cd7bc12ade6d029ab3c04b458733",
+          "url": "https://readwithveil.com/decks/v1/brightPath/brightpath_67.jpg"
+        },
+        {
+          "name": "brightpath_68.jpg",
+          "bytes": 252925,
+          "sha256": "f74b50116b6538e42bb1dd34faaf80e87544ba86761c7a4836f5ef5206f5379b",
+          "url": "https://readwithveil.com/decks/v1/brightPath/brightpath_68.jpg"
+        },
+        {
+          "name": "brightpath_69.jpg",
+          "bytes": 254617,
+          "sha256": "a1e8d937d68b1801351ef1c7777275ee9ca7af6c1adeb8a3cb4b50ca41942eb1",
+          "url": "https://readwithveil.com/decks/v1/brightPath/brightpath_69.jpg"
+        },
+        {
+          "name": "brightpath_70.jpg",
+          "bytes": 255808,
+          "sha256": "cec868c8233d4c0775c8f35e5040291628185a04c84e682bdca9e718cf25cc76",
+          "url": "https://readwithveil.com/decks/v1/brightPath/brightpath_70.jpg"
+        },
+        {
+          "name": "brightpath_71.jpg",
+          "bytes": 254583,
+          "sha256": "75f8ea16f45bfaacac9debfb01316ce2ae813d4fcf288c4d9e71b8d776c641b6",
+          "url": "https://readwithveil.com/decks/v1/brightPath/brightpath_71.jpg"
+        },
+        {
+          "name": "brightpath_72.jpg",
+          "bytes": 266765,
+          "sha256": "82548d41ca0fb537bc7904c9cc7f028b42e0fb9eb9212e5e715a5107eaf3dbe7",
+          "url": "https://readwithveil.com/decks/v1/brightPath/brightpath_72.jpg"
+        },
+        {
+          "name": "brightpath_73.jpg",
+          "bytes": 255810,
+          "sha256": "74b7cf64970d839da69a47a64b7d9e43645f5eff82757768f9f0235a53bb3434",
+          "url": "https://readwithveil.com/decks/v1/brightPath/brightpath_73.jpg"
+        },
+        {
+          "name": "brightpath_74.jpg",
+          "bytes": 264477,
+          "sha256": "2be838038a3a0787b22f128d7906140cc005a1ed932b124b1f5f9b500eca15be",
+          "url": "https://readwithveil.com/decks/v1/brightPath/brightpath_74.jpg"
+        },
+        {
+          "name": "brightpath_75.jpg",
+          "bytes": 253999,
+          "sha256": "72138644a77a127123730f9bc954a095c666ebcffc09c0ba86ead09f25e401dc",
+          "url": "https://readwithveil.com/decks/v1/brightPath/brightpath_75.jpg"
+        },
+        {
+          "name": "brightpath_76.jpg",
+          "bytes": 259421,
+          "sha256": "2916f8ca377f540be942f99eb3c11179d10fe7e408c810ccde33ed03307976b6",
+          "url": "https://readwithveil.com/decks/v1/brightPath/brightpath_76.jpg"
+        },
+        {
+          "name": "brightpath_77.jpg",
+          "bytes": 260470,
+          "sha256": "361d7915d1d680b4ad79ef617bca44710d0346a936bef592e2f319f25f2611bf",
+          "url": "https://readwithveil.com/decks/v1/brightPath/brightpath_77.jpg"
+        }
+      ]
+    },
+    {
+      "id": "solaBusca1491",
+      "version": 1,
+      "totalBytes": 9930647,
+      "files": [
+        {
+          "name": "sola_00.jpg",
+          "bytes": 133761,
+          "sha256": "a05ad58cdc91f13fcd91078aaeaf10609ad151979434089af52573844ab05f64",
+          "url": "https://readwithveil.com/decks/v1/solaBusca1491/sola_00.jpg"
+        },
+        {
+          "name": "sola_01.jpg",
+          "bytes": 134901,
+          "sha256": "a827076aece2ed2deb976c770c5709e517b3e94ab9e316c214134221f35bead1",
+          "url": "https://readwithveil.com/decks/v1/solaBusca1491/sola_01.jpg"
+        },
+        {
+          "name": "sola_02.jpg",
+          "bytes": 124007,
+          "sha256": "8135a066357bc582cd382ea014ae85b4c68b7b94bdc3d28da7546e66b4434719",
+          "url": "https://readwithveil.com/decks/v1/solaBusca1491/sola_02.jpg"
+        },
+        {
+          "name": "sola_03.jpg",
+          "bytes": 126434,
+          "sha256": "52efdd37a62327f665750ac89ae6064cbb203d2460feb770e4368e7736489f27",
+          "url": "https://readwithveil.com/decks/v1/solaBusca1491/sola_03.jpg"
+        },
+        {
+          "name": "sola_04.jpg",
+          "bytes": 125590,
+          "sha256": "2a909b22a468b684432baac5f758cce5760d41b7f3a8cef667e616db5e2864e8",
+          "url": "https://readwithveil.com/decks/v1/solaBusca1491/sola_04.jpg"
+        },
+        {
+          "name": "sola_05.jpg",
+          "bytes": 129087,
+          "sha256": "b38b85517d678c97f37ec8b3e7bac2cac4c7956dbca7f46ed025658528da55d4",
+          "url": "https://readwithveil.com/decks/v1/solaBusca1491/sola_05.jpg"
+        },
+        {
+          "name": "sola_06.jpg",
+          "bytes": 139032,
+          "sha256": "7a2b35d51d6aa51958ab21baf32c66c8e431c20c8b0cc6e7ddf9486dc40b15da",
+          "url": "https://readwithveil.com/decks/v1/solaBusca1491/sola_06.jpg"
+        },
+        {
+          "name": "sola_07.jpg",
+          "bytes": 133379,
+          "sha256": "bb0d3695844f194a44b2aa5e59910c8d22cf98f254d3b0ba04ba58ff90c0fd44",
+          "url": "https://readwithveil.com/decks/v1/solaBusca1491/sola_07.jpg"
+        },
+        {
+          "name": "sola_08.jpg",
+          "bytes": 122828,
+          "sha256": "9e5782a8c2735b9c43eb7878e7262ba8084c280eb5322cdeb9d026c241f75f8a",
+          "url": "https://readwithveil.com/decks/v1/solaBusca1491/sola_08.jpg"
+        },
+        {
+          "name": "sola_09.jpg",
+          "bytes": 128660,
+          "sha256": "99355f112005d311fd0e6e0a41bcbfd8b79859bcea1755ff5341ed31d5364485",
+          "url": "https://readwithveil.com/decks/v1/solaBusca1491/sola_09.jpg"
+        },
+        {
+          "name": "sola_10.jpg",
+          "bytes": 133269,
+          "sha256": "b5710a9312fba4c5dfeb5b6d5a01847e7d9d7a2945aa39bda88b9e9bfac2cc87",
+          "url": "https://readwithveil.com/decks/v1/solaBusca1491/sola_10.jpg"
+        },
+        {
+          "name": "sola_11.jpg",
+          "bytes": 127570,
+          "sha256": "9092cf5275164725848fd08470b1fd107ae64c9f74def200443d74c2f1d366a4",
+          "url": "https://readwithveil.com/decks/v1/solaBusca1491/sola_11.jpg"
+        },
+        {
+          "name": "sola_12.jpg",
+          "bytes": 125274,
+          "sha256": "527b857a83d08b95159d6404a22a0bdceff5cfb3c91d97b69831ec8159942768",
+          "url": "https://readwithveil.com/decks/v1/solaBusca1491/sola_12.jpg"
+        },
+        {
+          "name": "sola_13.jpg",
+          "bytes": 122908,
+          "sha256": "33b59fca76752a0792954f80f87d12f08068cd646c7e2d221e3e19530170c90a",
+          "url": "https://readwithveil.com/decks/v1/solaBusca1491/sola_13.jpg"
+        },
+        {
+          "name": "sola_14.jpg",
+          "bytes": 131780,
+          "sha256": "8088d74b4c4ebba8096e11fd951542f6fbc7de3d13ab0082a965ec53528f76c9",
+          "url": "https://readwithveil.com/decks/v1/solaBusca1491/sola_14.jpg"
+        },
+        {
+          "name": "sola_15.jpg",
+          "bytes": 131256,
+          "sha256": "2b2a2b94ad1f6ac5f6fff0e41e4718a20ded90d6812d222bf93e1f0531341d28",
+          "url": "https://readwithveil.com/decks/v1/solaBusca1491/sola_15.jpg"
+        },
+        {
+          "name": "sola_16.jpg",
+          "bytes": 129792,
+          "sha256": "8ab060e2fd77dbb17dd7058942c076d6e662fae6c6492535af66790bf516fe42",
+          "url": "https://readwithveil.com/decks/v1/solaBusca1491/sola_16.jpg"
+        },
+        {
+          "name": "sola_17.jpg",
+          "bytes": 132020,
+          "sha256": "db41511500428274c003e1b91de009a25c89f2d2d266b13c0aaf4f63affbf34d",
+          "url": "https://readwithveil.com/decks/v1/solaBusca1491/sola_17.jpg"
+        },
+        {
+          "name": "sola_18.jpg",
+          "bytes": 129823,
+          "sha256": "7489f7018b1fd5cd22fdf53c038aca3719872724bbbf8023e9642a6899782a3f",
+          "url": "https://readwithveil.com/decks/v1/solaBusca1491/sola_18.jpg"
+        },
+        {
+          "name": "sola_19.jpg",
+          "bytes": 133568,
+          "sha256": "ecb56c2adab041dafc9771d3188bc82a6c60896c74a29ae61040faa6301b9891",
+          "url": "https://readwithveil.com/decks/v1/solaBusca1491/sola_19.jpg"
+        },
+        {
+          "name": "sola_20.jpg",
+          "bytes": 123914,
+          "sha256": "e4e67d4741e609404229cee020113b5b1aae2253b3c13278928f2679ae4af518",
+          "url": "https://readwithveil.com/decks/v1/solaBusca1491/sola_20.jpg"
+        },
+        {
+          "name": "sola_21.jpg",
+          "bytes": 129931,
+          "sha256": "962473a68f1fb5cad2c5dc4ce2d6d1b680dc0394b92e4e7ed13854295668dc34",
+          "url": "https://readwithveil.com/decks/v1/solaBusca1491/sola_21.jpg"
+        },
+        {
+          "name": "sola_22.jpg",
+          "bytes": 130554,
+          "sha256": "e393737a824f534030610eeb5e6396dd550de9109b563ba33ec3b245fc116357",
+          "url": "https://readwithveil.com/decks/v1/solaBusca1491/sola_22.jpg"
+        },
+        {
+          "name": "sola_23.jpg",
+          "bytes": 126339,
+          "sha256": "139b1b843bd712409f4d098866816664739d1194ea513c490f59d3fd6b321620",
+          "url": "https://readwithveil.com/decks/v1/solaBusca1491/sola_23.jpg"
+        },
+        {
+          "name": "sola_24.jpg",
+          "bytes": 124410,
+          "sha256": "3ad6860aa9f1ff108d2553257e71bc38093d408a782361aa8a937a6be18e014a",
+          "url": "https://readwithveil.com/decks/v1/solaBusca1491/sola_24.jpg"
+        },
+        {
+          "name": "sola_25.jpg",
+          "bytes": 121255,
+          "sha256": "91afe12806b7b2277fc8ab8b3213cd418787c419025bfaf18a5df72fd573b042",
+          "url": "https://readwithveil.com/decks/v1/solaBusca1491/sola_25.jpg"
+        },
+        {
+          "name": "sola_26.jpg",
+          "bytes": 119340,
+          "sha256": "b07b78cb505a02c4efe1bea73367e1016230c04cde8387956738f78c7fedaf78",
+          "url": "https://readwithveil.com/decks/v1/solaBusca1491/sola_26.jpg"
+        },
+        {
+          "name": "sola_27.jpg",
+          "bytes": 131528,
+          "sha256": "2c8c3fee5bcf106bac56ae2cbe9f3d75f55cb09d7cf0b0c872d2f7683a4ea0d0",
+          "url": "https://readwithveil.com/decks/v1/solaBusca1491/sola_27.jpg"
+        },
+        {
+          "name": "sola_28.jpg",
+          "bytes": 124415,
+          "sha256": "209a8abc669df7b2754dddc176142650cdecd7a8ccfa9d189ed3fd18fac14653",
+          "url": "https://readwithveil.com/decks/v1/solaBusca1491/sola_28.jpg"
+        },
+        {
+          "name": "sola_29.jpg",
+          "bytes": 123319,
+          "sha256": "436d67e130180ef13a3aff2619eb7a5f5c16e23235ea5e26d637c2de1fa4704d",
+          "url": "https://readwithveil.com/decks/v1/solaBusca1491/sola_29.jpg"
+        },
+        {
+          "name": "sola_30.jpg",
+          "bytes": 130273,
+          "sha256": "dc3ceabc1ec9e718062bee8fbb4b5778b26bb2b95a1734a0ce4a0112b6d5cad1",
+          "url": "https://readwithveil.com/decks/v1/solaBusca1491/sola_30.jpg"
+        },
+        {
+          "name": "sola_31.jpg",
+          "bytes": 123175,
+          "sha256": "9416d2116dc1dc5b020b99d0eae1965c985ae5710ca61af91fa4b68871260b16",
+          "url": "https://readwithveil.com/decks/v1/solaBusca1491/sola_31.jpg"
+        },
+        {
+          "name": "sola_32.jpg",
+          "bytes": 124775,
+          "sha256": "a8f0bb48961761989b70969b6dee8aa7e9638a04aa0eb336632926248d73874f",
+          "url": "https://readwithveil.com/decks/v1/solaBusca1491/sola_32.jpg"
+        },
+        {
+          "name": "sola_33.jpg",
+          "bytes": 125250,
+          "sha256": "e9a3f655ed3212d047afc5eac895ca12567dcd4ce936fd7c03fed0c928b7d920",
+          "url": "https://readwithveil.com/decks/v1/solaBusca1491/sola_33.jpg"
+        },
+        {
+          "name": "sola_34.jpg",
+          "bytes": 126885,
+          "sha256": "64ab899f5d87dab30e38fc083d5b6070def2f370c5ca9d4469680dc50d26904e",
+          "url": "https://readwithveil.com/decks/v1/solaBusca1491/sola_34.jpg"
+        },
+        {
+          "name": "sola_35.jpg",
+          "bytes": 138549,
+          "sha256": "8e72cafe26fcb9bddaa1b998cc67543e35c5b4e578da82d1a00cf800efae8ee5",
+          "url": "https://readwithveil.com/decks/v1/solaBusca1491/sola_35.jpg"
+        },
+        {
+          "name": "sola_36.jpg",
+          "bytes": 138058,
+          "sha256": "6c5f9aa16b87d549d0d0caa34499474c92322fa58a9e301bacf99f3f7184d9f6",
+          "url": "https://readwithveil.com/decks/v1/solaBusca1491/sola_36.jpg"
+        },
+        {
+          "name": "sola_37.jpg",
+          "bytes": 130781,
+          "sha256": "02cec6d46bb6ce201bdb1562f9b11149c9ad5be34a4e197a6455803828f36362",
+          "url": "https://readwithveil.com/decks/v1/solaBusca1491/sola_37.jpg"
+        },
+        {
+          "name": "sola_38.jpg",
+          "bytes": 123581,
+          "sha256": "b97615e1393b5194f7dcb1cc9e68f0337cf2b6bd4879fd005ebb4080648f414d",
+          "url": "https://readwithveil.com/decks/v1/solaBusca1491/sola_38.jpg"
+        },
+        {
+          "name": "sola_39.jpg",
+          "bytes": 126084,
+          "sha256": "af6a2256794f0ee0770d851bfd6f0a93d0a1f9bc45b113258feaf8ff29eccdd2",
+          "url": "https://readwithveil.com/decks/v1/solaBusca1491/sola_39.jpg"
+        },
+        {
+          "name": "sola_40.jpg",
+          "bytes": 125347,
+          "sha256": "11ca86a2a694a4fc03f6ea22d2da15af119fe70427d47b3138a3831bf5e4d222",
+          "url": "https://readwithveil.com/decks/v1/solaBusca1491/sola_40.jpg"
+        },
+        {
+          "name": "sola_41.jpg",
+          "bytes": 131916,
+          "sha256": "61469d35d4581803262c05feb6a5d4cc78c21e7d3ba821ea614f587b08b13a90",
+          "url": "https://readwithveil.com/decks/v1/solaBusca1491/sola_41.jpg"
+        },
+        {
+          "name": "sola_42.jpg",
+          "bytes": 126835,
+          "sha256": "28fba97592480ea74524b70638d21fa7b81e0379d52cf9d0cf13fdd47e940237",
+          "url": "https://readwithveil.com/decks/v1/solaBusca1491/sola_42.jpg"
+        },
+        {
+          "name": "sola_43.jpg",
+          "bytes": 133206,
+          "sha256": "ec4c2dff6feb2571f60132ded42a9efb73b8893d391c888c5fca292d5e6cafd5",
+          "url": "https://readwithveil.com/decks/v1/solaBusca1491/sola_43.jpg"
+        },
+        {
+          "name": "sola_44.jpg",
+          "bytes": 131393,
+          "sha256": "ca767767a1b7cd58623ff93f76370c96961f7c91a678539c4ec2fa8a6a5a366d",
+          "url": "https://readwithveil.com/decks/v1/solaBusca1491/sola_44.jpg"
+        },
+        {
+          "name": "sola_45.jpg",
+          "bytes": 126612,
+          "sha256": "d104d05a397136058dc1ec59a20bde3aff0d4c7154c49ac39b981b66d2f99ae3",
+          "url": "https://readwithveil.com/decks/v1/solaBusca1491/sola_45.jpg"
+        },
+        {
+          "name": "sola_46.jpg",
+          "bytes": 117832,
+          "sha256": "a02069e3713d8c839ce54c624a65e9396b5a8d2557f31473b1d03efb3405ce5c",
+          "url": "https://readwithveil.com/decks/v1/solaBusca1491/sola_46.jpg"
+        },
+        {
+          "name": "sola_47.jpg",
+          "bytes": 124734,
+          "sha256": "d602f87054aeffb63224816b8a5c8918a3bc08a1b06ab6692aeefffbc1866809",
+          "url": "https://readwithveil.com/decks/v1/solaBusca1491/sola_47.jpg"
+        },
+        {
+          "name": "sola_48.jpg",
+          "bytes": 128185,
+          "sha256": "6855e18561a44a454f3677317cb33382d4320977721bbf2c278c784a072a29d5",
+          "url": "https://readwithveil.com/decks/v1/solaBusca1491/sola_48.jpg"
+        },
+        {
+          "name": "sola_49.jpg",
+          "bytes": 132249,
+          "sha256": "68b872055bda530953b1132536a6d0b034c753b6f9b86c0bde7a1c738c6c09bb",
+          "url": "https://readwithveil.com/decks/v1/solaBusca1491/sola_49.jpg"
+        },
+        {
+          "name": "sola_50.jpg",
+          "bytes": 130437,
+          "sha256": "1cfb70fa165c8f55c3356f90831921fbce5a26762c1502d8332085dd159b636b",
+          "url": "https://readwithveil.com/decks/v1/solaBusca1491/sola_50.jpg"
+        },
+        {
+          "name": "sola_51.jpg",
+          "bytes": 124728,
+          "sha256": "56440ccbefdf9bff9676c84e367fe339c7ec8d351d421beb66297eeb1bf81138",
+          "url": "https://readwithveil.com/decks/v1/solaBusca1491/sola_51.jpg"
+        },
+        {
+          "name": "sola_52.jpg",
+          "bytes": 116718,
+          "sha256": "d5cccbd82b480907b0c0d2be374e7990bfe2906bb0c3a9e909f0b826a88e90b0",
+          "url": "https://readwithveil.com/decks/v1/solaBusca1491/sola_52.jpg"
+        },
+        {
+          "name": "sola_53.jpg",
+          "bytes": 126498,
+          "sha256": "4e5d89463537fd7cf3989d3bc510c9e06dd020c976bb6aebf4717f477cb66903",
+          "url": "https://readwithveil.com/decks/v1/solaBusca1491/sola_53.jpg"
+        },
+        {
+          "name": "sola_54.jpg",
+          "bytes": 125681,
+          "sha256": "bac7d8771e56ce57a49af755fc0f29c2bb25887f87ab20c247f9e2f0532b7a6b",
+          "url": "https://readwithveil.com/decks/v1/solaBusca1491/sola_54.jpg"
+        },
+        {
+          "name": "sola_55.jpg",
+          "bytes": 120383,
+          "sha256": "6a6fca1ec302ebfbb5d644e9ae725c2f82816af8a1f1c5ab697dc2ce5f039071",
+          "url": "https://readwithveil.com/decks/v1/solaBusca1491/sola_55.jpg"
+        },
+        {
+          "name": "sola_56.jpg",
+          "bytes": 126986,
+          "sha256": "5a374610ae99f3bccd67b027fb6edaeba6c7cd97f177702a75b55e5e42360c0c",
+          "url": "https://readwithveil.com/decks/v1/solaBusca1491/sola_56.jpg"
+        },
+        {
+          "name": "sola_57.jpg",
+          "bytes": 126629,
+          "sha256": "0847dfd9f618c312eee4781f59c440df3bf826e8a8d0dd84b836c34ae3dae7c1",
+          "url": "https://readwithveil.com/decks/v1/solaBusca1491/sola_57.jpg"
+        },
+        {
+          "name": "sola_58.jpg",
+          "bytes": 123940,
+          "sha256": "fd017ee7fd947eb73b5c713966a0fb75bf6b88a1c8d038900f99862bdaaff2b8",
+          "url": "https://readwithveil.com/decks/v1/solaBusca1491/sola_58.jpg"
+        },
+        {
+          "name": "sola_59.jpg",
+          "bytes": 123861,
+          "sha256": "9ea6721bff67086ea4855894710c21bfa73a7d208804307ed9db0721eb1385b9",
+          "url": "https://readwithveil.com/decks/v1/solaBusca1491/sola_59.jpg"
+        },
+        {
+          "name": "sola_60.jpg",
+          "bytes": 120317,
+          "sha256": "3eb66c9b5159a7f194ee42054ff43d0201c6955524fd09dd7f04e47dd1f3e6fc",
+          "url": "https://readwithveil.com/decks/v1/solaBusca1491/sola_60.jpg"
+        },
+        {
+          "name": "sola_61.jpg",
+          "bytes": 121390,
+          "sha256": "19d2894e0eec8443135d05e8e439dc2336242a116e0e27553b1c22ec74e3839c",
+          "url": "https://readwithveil.com/decks/v1/solaBusca1491/sola_61.jpg"
+        },
+        {
+          "name": "sola_62.jpg",
+          "bytes": 119783,
+          "sha256": "54dd7cc5529ae686e378b3a46f3b8065f1d7e455edc2ce5b7a7a815e53b0a84e",
+          "url": "https://readwithveil.com/decks/v1/solaBusca1491/sola_62.jpg"
+        },
+        {
+          "name": "sola_63.jpg",
+          "bytes": 128528,
+          "sha256": "0b537061d72e004b66d3f2789aedd7d31d38c3698337a79e90d0197f57071f16",
+          "url": "https://readwithveil.com/decks/v1/solaBusca1491/sola_63.jpg"
+        },
+        {
+          "name": "sola_64.jpg",
+          "bytes": 129684,
+          "sha256": "e1a02f816d6a7d274ace531ad0c6fd638d074e255b88a30c2d12e6238437c3ef",
+          "url": "https://readwithveil.com/decks/v1/solaBusca1491/sola_64.jpg"
+        },
+        {
+          "name": "sola_65.jpg",
+          "bytes": 126010,
+          "sha256": "899596117ca1b8d1133b74c20303408fa4cb21f75cab7790f4f70420c7e7d08a",
+          "url": "https://readwithveil.com/decks/v1/solaBusca1491/sola_65.jpg"
+        },
+        {
+          "name": "sola_66.jpg",
+          "bytes": 117753,
+          "sha256": "eac6d8ffebdfcf653fafc545281f1e7447fb3ee871bfa51e462d5af7ef9aab7a",
+          "url": "https://readwithveil.com/decks/v1/solaBusca1491/sola_66.jpg"
+        },
+        {
+          "name": "sola_67.jpg",
+          "bytes": 121387,
+          "sha256": "55adf6d752ca5d893540f82ff4e1baea2ef63c576941699594c974e5084fd1f3",
+          "url": "https://readwithveil.com/decks/v1/solaBusca1491/sola_67.jpg"
+        },
+        {
+          "name": "sola_68.jpg",
+          "bytes": 125344,
+          "sha256": "462c7ce0643c104d8cd82a26594913732c0fb1fb4906e9e306b24eb14a101832",
+          "url": "https://readwithveil.com/decks/v1/solaBusca1491/sola_68.jpg"
+        },
+        {
+          "name": "sola_69.jpg",
+          "bytes": 121939,
+          "sha256": "3815c6c4cda856756a08c5588032147ad3332fb97c955da5527f128d9c59e57d",
+          "url": "https://readwithveil.com/decks/v1/solaBusca1491/sola_69.jpg"
+        },
+        {
+          "name": "sola_70.jpg",
+          "bytes": 131817,
+          "sha256": "f72223c8b06d306942e406fdacae1f6b905764abf23237387dbe530784f2b940",
+          "url": "https://readwithveil.com/decks/v1/solaBusca1491/sola_70.jpg"
+        },
+        {
+          "name": "sola_71.jpg",
+          "bytes": 131796,
+          "sha256": "0f83c0fa0884b3e069b384dd9857f1d6715665d373cef0a66ac1b3874f1ef0d6",
+          "url": "https://readwithveil.com/decks/v1/solaBusca1491/sola_71.jpg"
+        },
+        {
+          "name": "sola_72.jpg",
+          "bytes": 128210,
+          "sha256": "54617d7a0ca5d3412aa15a82e02f5d1355bd1ec91d0732974040881c5872ded3",
+          "url": "https://readwithveil.com/decks/v1/solaBusca1491/sola_72.jpg"
+        },
+        {
+          "name": "sola_73.jpg",
+          "bytes": 129578,
+          "sha256": "b91a7e47bde28ce95f71ebf42982de78af41436b09edde7d05ff5c20bcdd55d6",
+          "url": "https://readwithveil.com/decks/v1/solaBusca1491/sola_73.jpg"
+        },
+        {
+          "name": "sola_74.jpg",
+          "bytes": 121410,
+          "sha256": "765fb8cdc5d28c83ab0944ab877ca30c40ec8b153739ec64ef278690f520a3e8",
+          "url": "https://readwithveil.com/decks/v1/solaBusca1491/sola_74.jpg"
+        },
+        {
+          "name": "sola_75.jpg",
+          "bytes": 127518,
+          "sha256": "d1284f3e4947e5610e2a72f37b0a6a2f16d3c4331850504dc6c18be5d106227f",
+          "url": "https://readwithveil.com/decks/v1/solaBusca1491/sola_75.jpg"
+        },
+        {
+          "name": "sola_76.jpg",
+          "bytes": 127017,
+          "sha256": "20a5e96a3d3071d02bdea7997567531f5e10ccf3dd3673bdedabd9882175ce99",
+          "url": "https://readwithveil.com/decks/v1/solaBusca1491/sola_76.jpg"
+        },
+        {
+          "name": "sola_77.jpg",
+          "bytes": 139641,
+          "sha256": "a7e85537ea28d69cfec1ae0cc38ef152c019024e170433be82e7b68a7ac303b8",
+          "url": "https://readwithveil.com/decks/v1/solaBusca1491/sola_77.jpg"
+        }
+      ]
+    }
+  ]
+}
