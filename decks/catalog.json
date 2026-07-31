@@ -1900,6 +1900,481 @@
           "url": "https://readwithveil.com/decks/v1/neonArcade/neonarcade_77.jpg"
         }
       ]
+    },
+    {
+      "id": "finalQuest",
+      "version": 1,
+      "totalBytes": 18094298,
+      "files": [
+        {
+          "name": "finalquest_00.jpg",
+          "bytes": 199713,
+          "sha256": "a2a233954572c12c50c184a274e183670ec7addb42f992dd9c389147f28c9b7a",
+          "url": "https://readwithveil.com/decks/v1/finalQuest/finalquest_00.jpg"
+        },
+        {
+          "name": "finalquest_01.jpg",
+          "bytes": 214832,
+          "sha256": "c4ce762e6fbb45e2bb6b614b0fba858371da65e3753492552c8952522bd55457",
+          "url": "https://readwithveil.com/decks/v1/finalQuest/finalquest_01.jpg"
+        },
+        {
+          "name": "finalquest_02.jpg",
+          "bytes": 204580,
+          "sha256": "25a1ddb51af3f815be7f7ef6b80d8382864b35271c845148f85c8107c3e256a9",
+          "url": "https://readwithveil.com/decks/v1/finalQuest/finalquest_02.jpg"
+        },
+        {
+          "name": "finalquest_03.jpg",
+          "bytes": 265024,
+          "sha256": "0f56b95b1c4a1913b33c52b0228e328fa45a4dbe6289b7456e138644a6954107",
+          "url": "https://readwithveil.com/decks/v1/finalQuest/finalquest_03.jpg"
+        },
+        {
+          "name": "finalquest_04.jpg",
+          "bytes": 231172,
+          "sha256": "763057ba9bfeaf1556ee10fdd1c1d508145d303674b248535cd5ec53aa7b8094",
+          "url": "https://readwithveil.com/decks/v1/finalQuest/finalquest_04.jpg"
+        },
+        {
+          "name": "finalquest_05.jpg",
+          "bytes": 228056,
+          "sha256": "73b9ee2d919866ae1bcfaca4951f70a055578c514082a3c4ad6f6734bc768686",
+          "url": "https://readwithveil.com/decks/v1/finalQuest/finalquest_05.jpg"
+        },
+        {
+          "name": "finalquest_06.jpg",
+          "bytes": 262408,
+          "sha256": "702a6ca10202d37af0ed325145158205d8bd870981aa99be551ec4648caa67af",
+          "url": "https://readwithveil.com/decks/v1/finalQuest/finalquest_06.jpg"
+        },
+        {
+          "name": "finalquest_07.jpg",
+          "bytes": 213716,
+          "sha256": "0f6cf4b7afe68a188823bbc15c269861834669d5233cc65f7a0a08348aa419bf",
+          "url": "https://readwithveil.com/decks/v1/finalQuest/finalquest_07.jpg"
+        },
+        {
+          "name": "finalquest_08.jpg",
+          "bytes": 245909,
+          "sha256": "64930c6747c1c4beb82021c07d5608f66467c505f64d4f808b882239ad5cd98d",
+          "url": "https://readwithveil.com/decks/v1/finalQuest/finalquest_08.jpg"
+        },
+        {
+          "name": "finalquest_09.jpg",
+          "bytes": 196235,
+          "sha256": "f42f4c68f639229caeae8beea7e4d67e4e085dcd677852830aaf968de2b8497d",
+          "url": "https://readwithveil.com/decks/v1/finalQuest/finalquest_09.jpg"
+        },
+        {
+          "name": "finalquest_10.jpg",
+          "bytes": 264908,
+          "sha256": "4d17b27514a2dffb50b1674548faf13d6fc2f4dec4114579f59f6f5df971c377",
+          "url": "https://readwithveil.com/decks/v1/finalQuest/finalquest_10.jpg"
+        },
+        {
+          "name": "finalquest_11.jpg",
+          "bytes": 247183,
+          "sha256": "809b94acb75e098df84e1dc85328e84f4d40a720d8deb6ffa96997c631c46f3b",
+          "url": "https://readwithveil.com/decks/v1/finalQuest/finalquest_11.jpg"
+        },
+        {
+          "name": "finalquest_12.jpg",
+          "bytes": 250176,
+          "sha256": "7d0517e06ee226dcc77c2047e2490527481661e2fcff36e445aa7708f8007ec6",
+          "url": "https://readwithveil.com/decks/v1/finalQuest/finalquest_12.jpg"
+        },
+        {
+          "name": "finalquest_13.jpg",
+          "bytes": 215569,
+          "sha256": "455aaa2030be112086b9207071ac44e8f6af3afed4ad9daf1bdcc3e6e900bb33",
+          "url": "https://readwithveil.com/decks/v1/finalQuest/finalquest_13.jpg"
+        },
+        {
+          "name": "finalquest_14.jpg",
+          "bytes": 223211,
+          "sha256": "d5a90ac08f5ca2950d11ea911addb2fac200d4562663e121d99eee7b0d328e7a",
+          "url": "https://readwithveil.com/decks/v1/finalQuest/finalquest_14.jpg"
+        },
+        {
+          "name": "finalquest_15.jpg",
+          "bytes": 209348,
+          "sha256": "9d2023913db80123da0b8e45279ece737e86b451fe9f2e40638c83089060a604",
+          "url": "https://readwithveil.com/decks/v1/finalQuest/finalquest_15.jpg"
+        },
+        {
+          "name": "finalquest_16.jpg",
+          "bytes": 212430,
+          "sha256": "e1614999f98fc85454d60faeb48028746e70acd53c3498e0ef76f8c984f0745e",
+          "url": "https://readwithveil.com/decks/v1/finalQuest/finalquest_16.jpg"
+        },
+        {
+          "name": "finalquest_17.jpg",
+          "bytes": 217958,
+          "sha256": "51b0dcbe8a78516a7fbddcbd0614b517627ffabe13cf1bedca8459bb4e11fc46",
+          "url": "https://readwithveil.com/decks/v1/finalQuest/finalquest_17.jpg"
+        },
+        {
+          "name": "finalquest_18.jpg",
+          "bytes": 252445,
+          "sha256": "51bb7c44e26eb5d26be995c3f10171758ebc6dbb9bee31e9a1b2c9fb8232d471",
+          "url": "https://readwithveil.com/decks/v1/finalQuest/finalquest_18.jpg"
+        },
+        {
+          "name": "finalquest_19.jpg",
+          "bytes": 237735,
+          "sha256": "e8388fc41ed8ad1ef10a2cfaa66a49f6caff00c86a47241159cffb99a6433747",
+          "url": "https://readwithveil.com/decks/v1/finalQuest/finalquest_19.jpg"
+        },
+        {
+          "name": "finalquest_20.jpg",
+          "bytes": 219892,
+          "sha256": "ea028481d653fac5c0eb80495a6f1fe2a9ab8dbc446c6b1c9bbbb9a5d48bbab1",
+          "url": "https://readwithveil.com/decks/v1/finalQuest/finalquest_20.jpg"
+        },
+        {
+          "name": "finalquest_21.jpg",
+          "bytes": 247662,
+          "sha256": "482055de3fa602c8851043e32699172925f5dbe1d68b847a703b5abe5fa7e824",
+          "url": "https://readwithveil.com/decks/v1/finalQuest/finalquest_21.jpg"
+        },
+        {
+          "name": "finalquest_22.jpg",
+          "bytes": 227845,
+          "sha256": "c0373acab1a648f69051674d538bf473dadd69f663c9466b5f5085bcfd37e5fe",
+          "url": "https://readwithveil.com/decks/v1/finalQuest/finalquest_22.jpg"
+        },
+        {
+          "name": "finalquest_23.jpg",
+          "bytes": 209351,
+          "sha256": "97e3302b0f88a04f91c2a707a27eeb75293db9e111d27391747685e1aef4904a",
+          "url": "https://readwithveil.com/decks/v1/finalQuest/finalquest_23.jpg"
+        },
+        {
+          "name": "finalquest_24.jpg",
+          "bytes": 234801,
+          "sha256": "04ca515f340011395afed7a1ecbb04ac652ab22a51ab2d0c3d60234c34a6fca2",
+          "url": "https://readwithveil.com/decks/v1/finalQuest/finalquest_24.jpg"
+        },
+        {
+          "name": "finalquest_25.jpg",
+          "bytes": 249655,
+          "sha256": "23f213b8ae3c6eba06a941be6c88948279940726941144083cfcdba336c51972",
+          "url": "https://readwithveil.com/decks/v1/finalQuest/finalquest_25.jpg"
+        },
+        {
+          "name": "finalquest_26.jpg",
+          "bytes": 242614,
+          "sha256": "a84f69c44a664fe734af973415a5bfe2a608e6e8d8e9996285e14fc7c166a8aa",
+          "url": "https://readwithveil.com/decks/v1/finalQuest/finalquest_26.jpg"
+        },
+        {
+          "name": "finalquest_27.jpg",
+          "bytes": 245032,
+          "sha256": "778c7fc1ace8345572520e2e1b9f0c508a83c39b1159417a568e49c24d7fb8a4",
+          "url": "https://readwithveil.com/decks/v1/finalQuest/finalquest_27.jpg"
+        },
+        {
+          "name": "finalquest_28.jpg",
+          "bytes": 212240,
+          "sha256": "598daf20fff2730439c8dcf345a656006ac1812110d6929e6c69d13831a15d37",
+          "url": "https://readwithveil.com/decks/v1/finalQuest/finalquest_28.jpg"
+        },
+        {
+          "name": "finalquest_29.jpg",
+          "bytes": 179912,
+          "sha256": "22c4fcb662e6bc3397aba7f8166943a5fbc720286b13ff06868be82b3fa47944",
+          "url": "https://readwithveil.com/decks/v1/finalQuest/finalquest_29.jpg"
+        },
+        {
+          "name": "finalquest_30.jpg",
+          "bytes": 248587,
+          "sha256": "42a3ca6e3f8d037569d793fb6ed09334a2fab767be36db17f6a4858cbcb41478",
+          "url": "https://readwithveil.com/decks/v1/finalQuest/finalquest_30.jpg"
+        },
+        {
+          "name": "finalquest_31.jpg",
+          "bytes": 237115,
+          "sha256": "3f6ef487ac5926b0ebf31cf41a57d15eb07a97dd1d34f8054969dcc1fb655089",
+          "url": "https://readwithveil.com/decks/v1/finalQuest/finalquest_31.jpg"
+        },
+        {
+          "name": "finalquest_32.jpg",
+          "bytes": 243181,
+          "sha256": "1a5bc87468d784e08f7aa9a5c7fb5fb39a873b06d5d04affa7acef38aca7a8d3",
+          "url": "https://readwithveil.com/decks/v1/finalQuest/finalquest_32.jpg"
+        },
+        {
+          "name": "finalquest_33.jpg",
+          "bytes": 264905,
+          "sha256": "dfdc08243e8d4a4439d278f3d565166c4d14c4a36e7c33932d1ab36eb2a2f50d",
+          "url": "https://readwithveil.com/decks/v1/finalQuest/finalquest_33.jpg"
+        },
+        {
+          "name": "finalquest_34.jpg",
+          "bytes": 240321,
+          "sha256": "f1abf1fa11d21b615a73921cc203e56e3f05faca07ed082f7ecc50fbb799af10",
+          "url": "https://readwithveil.com/decks/v1/finalQuest/finalquest_34.jpg"
+        },
+        {
+          "name": "finalquest_35.jpg",
+          "bytes": 235312,
+          "sha256": "5acabf474bf83c111a72ba704b165ed23077623110e4909e0716f54730fe56b1",
+          "url": "https://readwithveil.com/decks/v1/finalQuest/finalquest_35.jpg"
+        },
+        {
+          "name": "finalquest_36.jpg",
+          "bytes": 236874,
+          "sha256": "e9abec720dafb1b19dee65d7cd617b01de944ecc106380ad053948843f961e61",
+          "url": "https://readwithveil.com/decks/v1/finalQuest/finalquest_36.jpg"
+        },
+        {
+          "name": "finalquest_37.jpg",
+          "bytes": 222353,
+          "sha256": "06f824fd5d2727b5ed64d6f3db69a0f260921ce609e067e0ec025032c0a3f112",
+          "url": "https://readwithveil.com/decks/v1/finalQuest/finalquest_37.jpg"
+        },
+        {
+          "name": "finalquest_38.jpg",
+          "bytes": 250926,
+          "sha256": "41e4429a4879478a660d478e3fc0bddbbdb09a03a8c837630fed8b042222e4bf",
+          "url": "https://readwithveil.com/decks/v1/finalQuest/finalquest_38.jpg"
+        },
+        {
+          "name": "finalquest_39.jpg",
+          "bytes": 231028,
+          "sha256": "9c80583504a6a924b91369a1dad497e50fd62ed826ec45f0912bbb4766e3242b",
+          "url": "https://readwithveil.com/decks/v1/finalQuest/finalquest_39.jpg"
+        },
+        {
+          "name": "finalquest_40.jpg",
+          "bytes": 233764,
+          "sha256": "78f57a7f2c6e00395af0f58d106d070809ea05f1fdfc692e504e4090f799f32c",
+          "url": "https://readwithveil.com/decks/v1/finalQuest/finalquest_40.jpg"
+        },
+        {
+          "name": "finalquest_41.jpg",
+          "bytes": 234178,
+          "sha256": "7420194ff7df58441f3aa493b8f96a5da575430b8518798faba750dd5fcbbb2b",
+          "url": "https://readwithveil.com/decks/v1/finalQuest/finalquest_41.jpg"
+        },
+        {
+          "name": "finalquest_42.jpg",
+          "bytes": 211930,
+          "sha256": "3f0fdf829d5315b8c6c12bd0a28c2e733a719ae3bfeee6a36f8f587fb1f4738b",
+          "url": "https://readwithveil.com/decks/v1/finalQuest/finalquest_42.jpg"
+        },
+        {
+          "name": "finalquest_43.jpg",
+          "bytes": 214985,
+          "sha256": "cf242258796766d13f3c1a0e122f1b09c72232baa867f529477729c7fa194fac",
+          "url": "https://readwithveil.com/decks/v1/finalQuest/finalquest_43.jpg"
+        },
+        {
+          "name": "finalquest_44.jpg",
+          "bytes": 238293,
+          "sha256": "754bf0cb946090c60c0063cc978443c8fa531e7abb809e97491aca49691b2551",
+          "url": "https://readwithveil.com/decks/v1/finalQuest/finalquest_44.jpg"
+        },
+        {
+          "name": "finalquest_45.jpg",
+          "bytes": 224331,
+          "sha256": "deee48b983eaaf89e707050e0599b1de18efbdb7715ee56c172151f12d6fc54b",
+          "url": "https://readwithveil.com/decks/v1/finalQuest/finalquest_45.jpg"
+        },
+        {
+          "name": "finalquest_46.jpg",
+          "bytes": 250599,
+          "sha256": "ad22df12d50b951e79279abb701a1de0c2f7571bf40a6fe9328d24706a1de916",
+          "url": "https://readwithveil.com/decks/v1/finalQuest/finalquest_46.jpg"
+        },
+        {
+          "name": "finalquest_47.jpg",
+          "bytes": 234374,
+          "sha256": "4c935a8424063259152157caa03bdf2693ce6f58e12cf96711696c56c559363e",
+          "url": "https://readwithveil.com/decks/v1/finalQuest/finalquest_47.jpg"
+        },
+        {
+          "name": "finalquest_48.jpg",
+          "bytes": 252887,
+          "sha256": "4637893c85b5a227cfc46eb59b4b4053cccee6f72aa552e236aaef3abaf84ea7",
+          "url": "https://readwithveil.com/decks/v1/finalQuest/finalquest_48.jpg"
+        },
+        {
+          "name": "finalquest_49.jpg",
+          "bytes": 235129,
+          "sha256": "42947b749a92ccb490d4ba5acdf0e1e87c5616026dccde41042a8f0a6f89b340",
+          "url": "https://readwithveil.com/decks/v1/finalQuest/finalquest_49.jpg"
+        },
+        {
+          "name": "finalquest_50.jpg",
+          "bytes": 189938,
+          "sha256": "63c8172a8137f02e7499ef490e616153b9b33c828b2f74c5fc5daa25541761c8",
+          "url": "https://readwithveil.com/decks/v1/finalQuest/finalquest_50.jpg"
+        },
+        {
+          "name": "finalquest_51.jpg",
+          "bytes": 206299,
+          "sha256": "80d387cf288041efc8c0d7b1ff313065bdf08dad105215a0708845eca84d87af",
+          "url": "https://readwithveil.com/decks/v1/finalQuest/finalquest_51.jpg"
+        },
+        {
+          "name": "finalquest_52.jpg",
+          "bytes": 212649,
+          "sha256": "ffad0a73047d7860d22dc21179989a163212a439da3a0017d1aa42ac3df3e958",
+          "url": "https://readwithveil.com/decks/v1/finalQuest/finalquest_52.jpg"
+        },
+        {
+          "name": "finalquest_53.jpg",
+          "bytes": 227342,
+          "sha256": "c3bf9136b9a21cd2082a7dd27a8e34244c2a67e0243c012b1010cd6703c55a71",
+          "url": "https://readwithveil.com/decks/v1/finalQuest/finalquest_53.jpg"
+        },
+        {
+          "name": "finalquest_54.jpg",
+          "bytes": 228441,
+          "sha256": "301567044cb99e8dfde083ed30789849145ec7fbac65ba04e44d98d71c989619",
+          "url": "https://readwithveil.com/decks/v1/finalQuest/finalquest_54.jpg"
+        },
+        {
+          "name": "finalquest_55.jpg",
+          "bytes": 187869,
+          "sha256": "dfe5cd1d30724a1592e8bcf2b781adfc7bb9c44bf22a4714bbd8fa5dad54df81",
+          "url": "https://readwithveil.com/decks/v1/finalQuest/finalquest_55.jpg"
+        },
+        {
+          "name": "finalquest_56.jpg",
+          "bytes": 219272,
+          "sha256": "522f3571716699f8d3e8b2ca7d630cab549587791847aded50adce96fc42f994",
+          "url": "https://readwithveil.com/decks/v1/finalQuest/finalquest_56.jpg"
+        },
+        {
+          "name": "finalquest_57.jpg",
+          "bytes": 271351,
+          "sha256": "8b938841d13c5649b1f3a8d48c8bbd3a7860e9b6af9fb709fbdac4275cda038b",
+          "url": "https://readwithveil.com/decks/v1/finalQuest/finalquest_57.jpg"
+        },
+        {
+          "name": "finalquest_58.jpg",
+          "bytes": 198882,
+          "sha256": "29499e236d5899014241880b3ff5b99f5f87844f5bc9802d46857ef298ce3fa5",
+          "url": "https://readwithveil.com/decks/v1/finalQuest/finalquest_58.jpg"
+        },
+        {
+          "name": "finalquest_59.jpg",
+          "bytes": 193354,
+          "sha256": "fdcb66a4763875ea4d4e97fc6f87bdbbd23a840c280351c64cb17ce0e09d727a",
+          "url": "https://readwithveil.com/decks/v1/finalQuest/finalquest_59.jpg"
+        },
+        {
+          "name": "finalquest_60.jpg",
+          "bytes": 224367,
+          "sha256": "32f580a0fda1e6313060045b8c76def4a30b3ac1d44b248d32a33338232cc0ba",
+          "url": "https://readwithveil.com/decks/v1/finalQuest/finalquest_60.jpg"
+        },
+        {
+          "name": "finalquest_61.jpg",
+          "bytes": 206701,
+          "sha256": "cdddb5970420579b1ca6fc4ab983f5d67d50f9b88b9e808fa70e6277371a0e73",
+          "url": "https://readwithveil.com/decks/v1/finalQuest/finalquest_61.jpg"
+        },
+        {
+          "name": "finalquest_62.jpg",
+          "bytes": 217177,
+          "sha256": "939b6eb5c326fae1477ce7b3109c539a96a151b2406e32dc084ca689e528f735",
+          "url": "https://readwithveil.com/decks/v1/finalQuest/finalquest_62.jpg"
+        },
+        {
+          "name": "finalquest_63.jpg",
+          "bytes": 228415,
+          "sha256": "54991ac0dc3b8582ae357d402844c9fbd6c91cf3ce734ac3652e5a2f7d623a7b",
+          "url": "https://readwithveil.com/decks/v1/finalQuest/finalquest_63.jpg"
+        },
+        {
+          "name": "finalquest_64.jpg",
+          "bytes": 258891,
+          "sha256": "86c12ea3f189fd8195bfe7b34b5628507d16945c738213134855231f7db5ca42",
+          "url": "https://readwithveil.com/decks/v1/finalQuest/finalquest_64.jpg"
+        },
+        {
+          "name": "finalquest_65.jpg",
+          "bytes": 247859,
+          "sha256": "5cb7334002e7e156a9cc5f9f82dbc5c469d376977f386d3b8697ea3c57cfb517",
+          "url": "https://readwithveil.com/decks/v1/finalQuest/finalquest_65.jpg"
+        },
+        {
+          "name": "finalquest_66.jpg",
+          "bytes": 271031,
+          "sha256": "d4dd6bdc39ab7c6473f61072120cf708fac894b5bf15cd03b77ffea9578d636a",
+          "url": "https://readwithveil.com/decks/v1/finalQuest/finalquest_66.jpg"
+        },
+        {
+          "name": "finalquest_67.jpg",
+          "bytes": 214602,
+          "sha256": "38840c75d27e8f38d0919f8eec4480621638785db2eccc5b30dc89219b7ab8c5",
+          "url": "https://readwithveil.com/decks/v1/finalQuest/finalquest_67.jpg"
+        },
+        {
+          "name": "finalquest_68.jpg",
+          "bytes": 244239,
+          "sha256": "b4dd76bfe8c2118bb2ef95fe5ad688769e9dbb06d24900279d065b066fb46b7c",
+          "url": "https://readwithveil.com/decks/v1/finalQuest/finalquest_68.jpg"
+        },
+        {
+          "name": "finalquest_69.jpg",
+          "bytes": 220895,
+          "sha256": "f01065e7c47a3f404ce1fce90696d961c56bfa5577990885dfaff1424034ecb0",
+          "url": "https://readwithveil.com/decks/v1/finalQuest/finalquest_69.jpg"
+        },
+        {
+          "name": "finalquest_70.jpg",
+          "bytes": 263429,
+          "sha256": "0d661311923b71341ba0e4d634d8fa8f85352c6a2f09e362c7bf67fa59bf5b76",
+          "url": "https://readwithveil.com/decks/v1/finalQuest/finalquest_70.jpg"
+        },
+        {
+          "name": "finalquest_71.jpg",
+          "bytes": 258445,
+          "sha256": "40128a9670c53773e303c00321bba409cb7a4b5622e0f1e69c87f34c0803d843",
+          "url": "https://readwithveil.com/decks/v1/finalQuest/finalquest_71.jpg"
+        },
+        {
+          "name": "finalquest_72.jpg",
+          "bytes": 277686,
+          "sha256": "9d6f7afa644bac6b7a6998928bbc26b3fabb395b0095e36cbd63da46f8b8e57b",
+          "url": "https://readwithveil.com/decks/v1/finalQuest/finalquest_72.jpg"
+        },
+        {
+          "name": "finalquest_73.jpg",
+          "bytes": 237292,
+          "sha256": "d8c304347309d058d79907f9af6b96e01db458f0a1dc953fdfedf849b230c77b",
+          "url": "https://readwithveil.com/decks/v1/finalQuest/finalquest_73.jpg"
+        },
+        {
+          "name": "finalquest_74.jpg",
+          "bytes": 220681,
+          "sha256": "84ce1c0337fa7a633417cc26bf1678bb3620e6af203fc5a1733bdc94ac852726",
+          "url": "https://readwithveil.com/decks/v1/finalQuest/finalquest_74.jpg"
+        },
+        {
+          "name": "finalquest_75.jpg",
+          "bytes": 245747,
+          "sha256": "116c19247c293e78d500a7d978affebc86df72fe42f8918d2629cb65195ceff0",
+          "url": "https://readwithveil.com/decks/v1/finalQuest/finalquest_75.jpg"
+        },
+        {
+          "name": "finalquest_76.jpg",
+          "bytes": 253121,
+          "sha256": "0931e8743355f65b6f1b8ea20f0db71b23b28192a36aa5efd8a22a926d52315a",
+          "url": "https://readwithveil.com/decks/v1/finalQuest/finalquest_76.jpg"
+        },
+        {
+          "name": "finalquest_77.jpg",
+          "bytes": 265639,
+          "sha256": "83a11f11d796fa740b54692127dc703d214ea1986b26518303c90418833b0880",
+          "url": "https://readwithveil.com/decks/v1/finalQuest/finalquest_77.jpg"
+        }
+      ]
     }
   ]
 }
